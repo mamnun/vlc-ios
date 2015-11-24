@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="Vel ljóðspor";
+"CHOOSE_SUBTITLE_TRACK"="Vel tekstaspor";
+"OPEN_TRACK_PANEL"="Open track selection";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="Sjónvarp íbundið";
+"PLAYING_EXTERNALLY_DESC"="Sjónbandið verður víst á sjónvarpinum";
+
+"VFILTER_HUE"="Litstyrkja";
+"VFILTER_CONTRAST"="Konstrastur";
+"VFILTER_BRIGHTNESS"="Ljósstillingar";
+"VFILTER_SATURATION"="Ljósmetting";
+"VFILTER_GAMMA"="Gamma";
+
+"BUTTON_EQUALIZER"="Equalizer";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="Tað miseydnaðist at spæla";
+"AR_CHANGED"="Støddlutfall: %@";
+"DEFAULT"="Tað vanliga";
+"FILL_TO_SCREEN"="Stilla til skíggjan";
+"DEVICE_TOOSLOW_TITLE"="Eindin ov sein";
+"DEVICE_TOOSLOW"="Tín %@ arbeiðir kanska ov seint til at spæla\"%@\". Royn hóast alt?";
+"PLAYBACK_SPEED"="Avspælingarferð";
+"SPU_DELAY"="Seinkan av teksti";
+"AUDIO_DELAY"="Seinkan av ljóði";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="Broyt";
+"BUTTON_DONE"="Liðugt";
+"BUTTON_OPEN"="Lat upp";
+"BUTTON_CANCEL"="Steðga";
+"BUTTON_SAVE"="Goym";
+"BUTTON_DOWNLOAD"="Tak niður";
+"BUTTON_DELETE"="Strika";
+"BUTTON_OK"="Í lagi";
+"BUTTON_NEXT"="Næsta";
+"BUTTON_CONTRIBUTE"="Ver við";
+"BUTTON_BACK"="Aftur";
+"BUTTON_CONNECT"="Bind í";
+"BUTTON_REPEAT"="Endurtak";
+"BUTTON_RENAME"="Broyt navn";
+"BUTTON_LEARN_MORE"="Lær meira";
+"BUTTON_LOGOUT"="Logout";
+"PRIVATE_PLAYBACK_TOGGLE"="Privat avspæling";
+"SCAN_SUBTITLE_TOGGLE"="Leita eftir teksti (einans http)";
+
+"UPGRADING_LIBRARY"="Dagfør miðlasavnið";
+"UNTITLED_SHOW"="Navnleys sending";
+"UNKNOWN"="Ókent";
+
+"OPEN_NETWORK"="Lat upp netstroyming";
+"NETWORK_TITLE"="Netstroyming";
+"OPEN_NETWORK_HELP"="Skriva antin HTTP, RTSP, RTMP, MMS, FTP ella UDP/RTP-adressu til at stroyma beinleiðis frá keldu.";
+"ABOUT_APP"="Um VLC til iOS";
+"OPEN_VLC_MENU"="Lat VLC síðuskránna upp";
+"HTTP_UPLOAD_SERVER_OFF"="Óvirkin ambætari";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="Einki virkið tráðleyst samband";
+"OPEN_STREAM_OR_DOWNLOAD"="Vilt tú taka niður ella spæla frá hesari URL-síðuni?";
+"SELECT_RESOURCE_TO_PLAY"="Vel eitt tilfeingi at spæla:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="Vel eitt tilfeingi at taka niður:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="Niðurtøkan miseydnaðist við HTTP kotu %i";
+"HTTP_FILE_CREATION_FAILED"="Fíluframleiðsla miseydnaðist";
+"HTTP_DOWNLOAD_CANCELLED"="Niðurtøkan var endað av brúkara";
+
+"DOWNLOAD_FROM_HTTP_HELP"="Skriva eina netsíðu fyri at taka fíluna niður á tín/a %@.";
+"DOWNLOAD_FROM_HTTP"="Niðurtøkur";
+"ERROR_NUMBER"="Villan %i íkomin";
+"DOWNLOAD_FAILED"="Niðurtøka miseydnaðist";
+"FILE_NOT_SUPPORTED"="Fíluforsniðið er ikki stuðlað";
+"FILE_NOT_SUPPORTED_LONG"="Fíluforsniðið, sum %@ brúkar, er ikki stuðlað av hesi VLC-útgávu til iOS.";
+"SCHEME_NOT_SUPPORTED"="Fyriskipanarbústaður ikki stuðlað";
+"SCHEME_NOT_SUPPORTED_LONG"="Fyriskipanarbústaðurin (%@) er ikki stuðlað. Brúka ein bústað, sum byrjar við HTTP, HTTPS ella FTP.";
+"LIBRARY_ALL_FILES"="Allar fílur";
+"LIBRARY_MUSIC"="Tónleikaútgávur";
+"LIBRARY_SERIES"="Sjónvarpssendingar";
+"LIBRARY_TRACKS"="%i Skeringar";
+"LIBRARY_SINGLE_TRACK"="%i Skering";
+"LIBRARY_EPISODES"="%i Partar, %i ikki lisið";
+"LIBRARY_SINGLE_EPISODE"="%i Partur, %i ikki lisin";
+"LIBRARY_TRACK_N"="Skering %i";
+"LIBRARY_MINUTES_LEFT"="%@m eftir";
+"RENAME_MEDIA_TO"="Skriva nýtt navn fyri %@";
+
+"FOLDER_EMPTY"="Tóm mappa";
+"FOLDER_EMPTY_LONG"="Legg fílur afturat við at trýsta á Broyt, vel fílu, trýst á mappu-knappin og vel so hesa mappu.";
+"FOLDER_INVALID_TYPE_TITLE"="Ógildug fílusløg";
+"FOLDER_INVALID_TYPE_MESSAGE"="Tú kanst einans taka tvær fílur til at gera eina mappu ella leggja einstaka fílu til eina mappu.";
+"FOLDER_CHOOSE_NAME_TITLE"="Nýggj mappa";
+"FOLDER_CHOOSE_NAME_MESSAGE"="Skriva heiti á mappuni";
+"FOLDER_NAME_PLACEHOLDER"="Mappuheiti";
+"FOLDER_NAME_DUPLICATE_TITLE"="Heitið er at finna";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="Vinaliga vel annað heiti";
+"SELECT_FOLDER"="Vel mappu";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="Vel fílu at lata upp:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="Lat upp í...";
+"SHARING_ERROR_NO_FILES"="Ongar fílur at deila vórðu funnar";
+"SHARING_ERROR_NO_APPLICATIONS"="Eitt forrit varð funnið, sum kann lata hetta slag av fílu upp";
+"SHARING_SUCCESS_CAMERA_ROLL"="Fíla varð goymd til myndarulluna í øllum góðum";
+
+"SECTION_HEADER_LIBRARY"="Miðlasavn";
+"SECTION_HEADER_NETWORK"="Net";
+
+"LOCAL_NETWORK"="Lokalt net";
+"CONNECT_TO_SERVER"="Fá samband við ambætara";
+"ENTER_SERVER_ADDRESS_HELP"="Skriva IP ella navn á ambætara, tú vilt hava samband við";
+"ENTER_SERVER_CREDS_HELP"="Skriva navn og loyniorð, um tað krevst av ambætaranum";
+"USER_LABEL"="Brúkari";
+"PASSWORD_LABEL"="Loyniorð";
+
+"LOCAL_SERVER_REFRESH"="Endurnýggja";
+"LOCAL_SERVER_LAST_UPDATE"="%@ - Dagført seinast";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="SAMBAND VIÐ AMBÆTARA MISEYDNAÐIST";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="Kanna vinaliga ambætarabústað og fulltrúarváttan";
+
+"CLOUD_SERVICES"="Cloud Services";
+"LOGIN"="Login";
+"LOGGED_IN"="Logged in";
+
+"DROPBOX_DOWNLOAD"="Tak fílu niður?";
+"DROPBOX_DL_LONG"="Vilt tú taka \"%@\" niður á tín/a %@?";
+"DROPBOX_LOGIN"="Rita inn";
+
+"GDRIVE_ERROR_FETCHING_FILES"="Villa stóðst at heinta fílur";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="Fílan er tikin niður í øllum góðum";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="ÓFØRT";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="Villa stóðst av at taka niður";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="VILLA";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i fílur";
+"ONE_FILE"="1 fíla";
+"NO_FILES"="Ongar stuðlaðar fílur";
+"DOWNLOADING"="Tekur niður...";
+"REMAINING_TIME"= "Tíð eftir: %@";
+"ENTER_PASSCODE"="Skriva loyniorð";
+"REENTER_PASSCODE"="Skriva loyniorð umaftur";
+"PASSCODE_SET"="Stilla loyniorð";
+"PASSCODE_CHANGE"="Broyt loyniorð";
+"PASSCODE_ENTER_OLD"="Skriva gamla loyniorðið";
+"PASSCODE_ENTER_NEW"="Skriva nýggja loyniorðið";
+"PASSCODE_REENTER_NEW"="Skriva loyniorðið inn umaftur";
+"PASSCODES_DID_NOT_MATCH"="Loyniorðini samsvara ikki. Royn umaftur.";
+"PASSCODE_FAILED_1"="1 miseydna roynd við loyniorði";
+"PASSCODE_FAILED_FORMAT"="%d mseydnaðar royndir við loyniorði";
+
+"Settings"="Stillingar"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="Tómt miðlasavn";
+"EMPTY_LIBRARY_LONG"="Fyri at avspæla ber til at stroyma miðlar frá einum ambætara á lokala netinum, úr skýnum ella samstilla miðlar til eindir tínar við iTunes, WiFi Upload ella Skýggjtænastum.";
+
+"PLAYBACK_SCRUB_HELP"="Førka fingurin niðureftir fyri at stilla skúriferðina.";
+"PLAYBACK_SCRUB_HIGH"="Skjót skúring";
+"PLAYBACK_SCRUB_HALF"="Miðal skúring";
+"PLAYBACK_SCRUB_QUARTER"="Fjórðings-skúring";
+"PLAYBACK_SCRUB_FINE"="Fín skúring";
+"PLAYBACK_POSITION"="Avspælingarstøða";
+"VIDEO_FILTER"="Videofiltur";
+"VIDEO_FILTER_RESET_BUTTON"="Nullstilla videofiltur";
+"VIDEO_ASPECT_RATIO_BUTTON"="Skift støddlutfall á video";
+"PLAY_PAUSE_BUTTON"="Spæl ella steðga avspælingina";
+"BWD_BUTTON"="Hoppa aftureftir";
+"FWD_BUTTON"="Hoppa frameftir";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="Útgáva: %@";
+"BASED_ON_FORMAT"="Grundað á:<br />%@";
+
+"NEW"="NÝTT";
+
+"BUG_REPORT_TITLE"="Melda eina villu";
+"BUG_REPORT_MESSAGE"="Vilt tú boða frá einum trupulleika?";
+"BUG_REPORT_BUTTON"="Lat Safari upp";
+
+"VO_VIDEOPLAYER_TITLE"="Videospælari";
+"VO_VIDEOPLAYER_DOUBLETAP"="Tøppa tvær ferðir fyri at vísa ella fjala avspælingarknapparnar";
+
+"FIRST_STEPS_WELCOME"="Vælkomin";
+"FIRST_STEPS_WELCOME_DETAIL"="Fyrstu stigini í at samstilla og spæla tínar miðlar";
+"FIRST_STEPS_ITUNES"="iTunes fílusamstilling";
+"FIRST_STEPS_ITUNES_DETAILS"="Fá samband frá %@ til Mac ella PC við kaðali.\nLat upp iTunes.\nVel %@.\nSkift til \"app\"-spjaldrið, skrulla niður og leita eftir VLC.\nFlyt fílurnar yvir.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Set tín/a %@ til sama net sum tín Mac ella PC.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Trýst á knarvan í síðuskránni, skriva URL-kelduna inn í kagan og legg fílurnar út.";
+"FIRST_STEPS_CLOUDS"="Skýggj";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Legg út miðlar á Google Drive ella Dropbox";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Lat síðuskránna upp fyri at velja Ský-veitara og far so inn á miðlarnar og tak niður ella stroyma.";
+"FIRST_STEPS_PLAYBACK"="Avspæling";
+"FIRST_STEPS_FLOSS"="VLC til iOS er ókeypis og eitt open-source forrit, framleitt avsjálvbodnum.\nVit vóna at tær dámar tað.";
+
+"FIRST_STEPS_TIME"="Tìð";
+"FIRST_STEPS_ASPECT"="Støddlutfall";
+"FIRST_STEPS_SPEED"="Ferð";
+"FIRST_STEPS_REPEAT"="Umaftur";
+"FIRST_STEPS_SUBTITLES"="Undirtekstir";
+"FIRST_STEPS_AUDIO"="Ljóðfílur";
+"FIRST_STEPS_POSITION"="Støða";
+
+"PLEX_WATCHED"="Marka sum sæð";
+"PLEX_UNWATCHED"="Marka sum ikki-sæð";
+"PLEX_ERROR_MARK"="Miseydnaðist at maka miðil";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="Tráðleys deiling";
+"WEBINTF_DROPFILES"="Slepp fílum";
+"WEBINTF_DROPFILES_LONG"="Slepp fílunum í gluggan fyri at leggja tær aftur at tínum %@.<br>Ella trýst á \"+\"-knappin fyri at brúka fíluveljaran.";
+"WEBINTF_DOWNLOADFILES"="Tak fílur niður";
+"WEBINTF_DOWNLOADFILES_LONG"="Trýst bert á fíluna, tú vilt taka niður, frá %@.";
+
+"CLOUD_DRIVES"="Other Cloud Drives";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="ශ්‍රව්‍ය පථය තෝරාගන්න";
+"CHOOSE_SUBTITLE_TRACK"="උපසිරැසි පථය තෝරාගන්න";
+"OPEN_TRACK_PANEL"="Open track selection";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="රුපවාහිනිය සම්බන්ධ කෙරුණි";
+"PLAYING_EXTERNALLY_DESC"="මෙම වීඩියෝව රුපවාහිනිය මත වාදනය වේ";
+
+"VFILTER_HUE"="පැහැය";
+"VFILTER_CONTRAST"="අසමතාවය";
+"VFILTER_BRIGHTNESS"="දීප්තිය";
+"VFILTER_SATURATION"="සන්තෘප්තිය";
+"VFILTER_GAMMA"="ගැමා";
+
+"BUTTON_EQUALIZER"="Equalizer";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="පිළිවැයිම අසාර්ථකයි";
+"AR_CHANGED"="දර්ශන අනුපාතය: %@";
+"DEFAULT"="පෙරනිමි ";
+"FILL_TO_SCREEN"="තිරය පිරවීමට කප්පාදු කරන්න";
+"DEVICE_TOOSLOW_TITLE"="ආම්පන්නය මන්දගාමී වැඩියි";
+"DEVICE_TOOSLOW"="ඔබේ %@ \"%@\" වාදනය සෙමින් සිදු කරයි. කොයි හැටි වුවත් විවෘත කරන්නද?";
+"PLAYBACK_SPEED"="පිළිවැයිම් වේගය";
+"SPU_DELAY"="Subtitles delay";
+"AUDIO_DELAY"="Audio delay";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="සංස්කරණය";
+"BUTTON_DONE"="ඉවරයි";
+"BUTTON_OPEN"="විවෘත කරන්න";
+"BUTTON_CANCEL"="අත් හරින්න";
+"BUTTON_SAVE"="සුරකින්න";
+"BUTTON_DOWNLOAD"="බාගන්න";
+"BUTTON_DELETE"="මකන්න";
+"BUTTON_OK"="හරි";
+"BUTTON_NEXT"="ඊළඟ";
+"BUTTON_CONTRIBUTE"="දායකවන්න";
+"BUTTON_BACK"="ආපසු";
+"BUTTON_CONNECT"="සම්බන්ධ කරන්න";
+"BUTTON_REPEAT"="පුනරාවර්තනය";
+"BUTTON_RENAME"="ප්‍රතිනම් කරන්න";
+"BUTTON_LEARN_MORE"="තවත් දැනගන්න";
+"BUTTON_LOGOUT"="Logout";
+"PRIVATE_PLAYBACK_TOGGLE"="පුද්ගලික පිළිවැයීම";
+"SCAN_SUBTITLE_TOGGLE"="Scan for Subtitles (http-only)";
+
+"UPGRADING_LIBRARY"="මාධ්‍ය පුස්තකාලය උසස් කරමින්";
+"UNTITLED_SHOW"="මාතෘකාවක් රහිත දර්ශනය";
+"UNKNOWN"="Unknown";
+
+"OPEN_NETWORK"="ජාල දහරාව විවෘත කරන්න";
+"NETWORK_TITLE"="ජාල දහරාව";
+"OPEN_NETWORK_HELP"="දහරාවක් කෙලින්ම විවෘත කිරීමට ඕනෑම HTTP, RTSP, RTMP, MMS, FTP හෝ UDP/RTP ලිපිනයක් යොදන්න.";
+"ABOUT_APP"="iOS සඳහා VLC ගැන";
+"OPEN_VLC_MENU"="VLC පැතිබාර මෙනුව විවෘත කරන්න";
+"HTTP_UPLOAD_SERVER_OFF"="අකර්මණ්‍ය සර්වරය";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="සක්‍රිය වයිෆයි සම්බන්ධතාවයක් නොමැත";
+"OPEN_STREAM_OR_DOWNLOAD"="ඔබට මෙම URL වාදනය හෝ භාගත කිරීමට අවශ්‍ය ද?";
+"SELECT_RESOURCE_TO_PLAY"="Select a resource to play:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="Select a resource to download:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="%i HTTP කේතය සමඟ බාගැනීම අසාර්ථකයි";
+"HTTP_FILE_CREATION_FAILED"="ගොනුව තැනීම අසාර්ථක විය";
+"HTTP_DOWNLOAD_CANCELLED"="බාගැනීම පරිශීලක විසින් අවලංගු කරන ලදී";
+
+"DOWNLOAD_FROM_HTTP_HELP"="ඔබේ %@ වෙත ගොනුව බාගැනීමට ලිපිනයක් යොදන්න.";
+"DOWNLOAD_FROM_HTTP"="බාගැනීම්";
+"ERROR_NUMBER"="%i දෝෂය හටගැණුනි";
+"DOWNLOAD_FAILED"="බාගැනීම අසාර්ථකයි";
+"FILE_NOT_SUPPORTED"="ගොනු ආකෘතිය සහය නොදක්වයි";
+"FILE_NOT_SUPPORTED_LONG"="%@ විසින් භාවිතා කරන ගොනු ආකෘතිය අයිඕඑස් සඳහා VLC මෙම අනුවාදයේ සහය නොදක්වයි.";
+"SCHEME_NOT_SUPPORTED"="ලිපින පරිපාටිය සහය නොදක්වයි";
+"SCHEME_NOT_SUPPORTED_LONG"="(%@) ලිපින පරිපාටිය සහය නොදක්වයි. කරුණාකර HTTP, HTTPS හෝ FTP සමඟ ඇරඹෙන ලිපිනයක් පාවිච්චි කරන්න.";
+"LIBRARY_ALL_FILES"="සියලුම ගොනු";
+"LIBRARY_MUSIC"="සංගීත ඇල්බම";
+"LIBRARY_SERIES"="රුපවාහිනී දර්ශන";
+"LIBRARY_TRACKS"="%i පථ";
+"LIBRARY_SINGLE_TRACK"="%i පථය";
+"LIBRARY_EPISODES"="කථාංග %i , %i නොකියවූ";
+"LIBRARY_SINGLE_EPISODE"="කථාංගය %i , %i නොකියවූ";
+"LIBRARY_TRACK_N"="පථය %i";
+"LIBRARY_MINUTES_LEFT"="%@m ඉතිරියි";
+"RENAME_MEDIA_TO"="%@ සඳහා නව නමක් යොදන්න";
+
+"FOLDER_EMPTY"="හිස් බහාලුම";
+"FOLDER_EMPTY_LONG"="ගොනු එකතු කිරීම සඳහා, ඔබට අවශ්‍ය ගොනු සමූහය තෝරා, ගොනු එකතුව බොත්තම ඔබා, මෙම ගොනු එකතුව තෝරන්න.";
+"FOLDER_INVALID_TYPE_TITLE"="වලංගු නොවන ගොනු වර්ග";
+"FOLDER_INVALID_TYPE_MESSAGE"="ඔබට බහාලුමක් හැඩගැස්වීම සඳහා ගොනු දෙකක් ගැනීම හෝ තනි ගොනුවක් පවත්නා බහාලුමකට එක් කරන්න.";
+"FOLDER_CHOOSE_NAME_TITLE"="නව බහාලුම";
+"FOLDER_CHOOSE_NAME_MESSAGE"="ඔබේ බහාලුම සඳහා ශීර්ෂයක් යොදන්න";
+"FOLDER_NAME_PLACEHOLDER"="බහාලුමේ ශීර්ෂය";
+"FOLDER_NAME_DUPLICATE_TITLE"="ශීර්ෂය පවතී";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="කරුණාකර වෙනත් මාතෘකාවක් තෝරා ගන්න";
+"SELECT_FOLDER"="බහාලුමක් ‍තෝරන්න";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="Choose a file to open:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="Open In...";
+"SHARING_ERROR_NO_FILES"="Could not find any files to share";
+"SHARING_ERROR_NO_APPLICATIONS"="Could not find any applications to open this type of file";
+"SHARING_SUCCESS_CAMERA_ROLL"="File was successfully saved to the Camera Roll";
+
+"SECTION_HEADER_LIBRARY"="මාධ්‍ය පුස්තකාලය";
+"SECTION_HEADER_NETWORK"="ජාලය";
+
+"LOCAL_NETWORK"="පෙදෙසි ජාලය";
+"CONNECT_TO_SERVER"="සර්වරය වෙත සම්බන්ධ වන්න";
+"ENTER_SERVER_ADDRESS_HELP"="ඔබට සම්බන්ධවීමට අවශ්‍ය සර්වරයේ IP හෝ නම යොදන්න.";
+"ENTER_SERVER_CREDS_HELP"="සර්වරය විසින් අයදින්නේ නම්, පරිශීලක නාමය සහ මුරපදය යොදන්න.";
+"USER_LABEL"="පරිශීලක";
+"PASSWORD_LABEL"="මුරපදය";
+
+"LOCAL_SERVER_REFRESH"="යළි ප්‍රාණවත් කරන්න";
+"LOCAL_SERVER_LAST_UPDATE"="අවසන් වරට යාවත්කාලීන කලේ %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="සර්වර් සබඳතාවය අසාර්ථකයි";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="කරුණාකර ඔබේ සර්වරයේ ලිපිනය සහ අක්ත පත්‍ර පරික්ෂා කරන්න";
+
+"CLOUD_SERVICES"="Cloud Services";
+"LOGIN"="Login";
+"LOGGED_IN"="Logged in";
+
+"DROPBOX_DOWNLOAD"="ගොනුව බාගන්නවද?";
+"DROPBOX_DL_LONG"="\"%@\" ඔබේ %@ වෙත බාගැනීමට කැමතිද?";
+"DROPBOX_LOGIN"="පිවිසුම";
+
+"GDRIVE_ERROR_FETCHING_FILES"="ගොනු පමුණුවීමේදී දෝෂයක් ඇති විය";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="ඔබේ ගොනුව සාර්ථකව බාගන්නා ලදී";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="සාර්ථකයි";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="බාගැනීමේදී දෝෂයක් හට ගැනුණි";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="දෝෂය";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i ගොනු";
+"ONE_FILE"="1 ගොනුව";
+"NO_FILES"="සහාය දක්වන ගොනු නොමැත";
+"DOWNLOADING"="බාගනිමින්...";
+"REMAINING_TIME"= "ඉතිරි කාලය: %@";
+"ENTER_PASSCODE"="පාස්කේතය යොදන්න";
+"REENTER_PASSCODE"="පාස්කේතය යළි-යොදන්න";
+"PASSCODE_SET"="පාස්කේතය සකසන්න";
+"PASSCODE_CHANGE"="පාස්කේතය වෙනස් කරන්න";
+"PASSCODE_ENTER_OLD"="ඔබේ පැරණි පාස්කේතය යොදන්න";
+"PASSCODE_ENTER_NEW"="ඔබේ නව පාස්කේතය යොදන්න";
+"PASSCODE_REENTER_NEW"="ඔබේ නව පාස්කේතය යළි-යොදන්න";
+"PASSCODES_DID_NOT_MATCH"="පාස්කේතයන් නොගැළපේ. නැවත උත්සාහ කරන්න.";
+"PASSCODE_FAILED_1"="අසාර්ථක වූ 1 පාස්කේත උත්සාහයක්";
+"PASSCODE_FAILED_FORMAT"="අසාර්ථක වූ පාස්කේත උත්සාහ %d ක්";
+
+"Settings"="සැකසුම්"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="හිස් මාධ්‍ය පුස්තකාලය";
+"EMPTY_LIBRARY_LONG"="පිළිවැයීම සඳහා, ඔබට ඔබේ ස්ථානීය ජාලය තුල සර්වරයකින් මාධ්‍ය ප්‍රවාහ කිරීම, වළාවෙන් හෝ අයිටියුන්ස්, වයිෆයි උඩුගත කිරීම හෝ වළාකුළු සේවාවන් භාවිතා කරමින් ඔබේ උපංගය වෙත මාධ්‍ය සම්මුහුර්ත කරන්න.";
+
+"PLAYBACK_SCRUB_HELP"="ඇතිල්ලීම් අනුපාතය සීරුමාරු කිරීමට ඔබේ ඇඟිල්ල පහලට ලුහුටන්න.";
+"PLAYBACK_SCRUB_HIGH"="උච්ච-වේග ඇතිල්ලීම";
+"PLAYBACK_SCRUB_HALF"="අර්ධ-වේග ඇතිල්ලීම";
+"PLAYBACK_SCRUB_QUARTER"="කාර්තු-වේග ඇතිල්ලීම";
+"PLAYBACK_SCRUB_FINE"="සියුම් ඇතිල්ලීම";
+"PLAYBACK_POSITION"="පිළිවැයීම් ස්ථානය";
+"VIDEO_FILTER"="විදෘශ්‍ය පෙරහන්";
+"VIDEO_FILTER_RESET_BUTTON"="විදෘශ්‍ය පෙරහන් යළිසකසන්න";
+"VIDEO_ASPECT_RATIO_BUTTON"="වීඩියෝවේ දර්ශන අනුපාතය මාරු කරන්න";
+"PLAY_PAUSE_BUTTON"="වත්මන් පිළිවැයීම වයන්න හෝ විරාමගත කරන්න";
+"BWD_BUTTON"="පසුපසට පනින්න";
+"FWD_BUTTON"="ඉදිරියට පනින්න";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="අනුවාදය: %@";
+"BASED_ON_FORMAT"="පදනම් වේ:<br />%@";
+
+"NEW"="නව";
+
+"BUG_REPORT_TITLE"="දෝෂයක් වාර්තා කරන්න";
+"BUG_REPORT_MESSAGE"="දෝෂ වාර්තාවක් තැනීමට ඔබ කැමතිද?";
+"BUG_REPORT_BUTTON"="සෆාරි විවෘත කරන්න";
+
+"VO_VIDEOPLAYER_TITLE"="විදෘශ්‍ය වාදකය";
+"VO_VIDEOPLAYER_DOUBLETAP"="පිළිවැයීම් පාලක පෙන්වීමට හෝ සැඟවීමට දෙවරක් තට්ටු කරන්න";
+
+"FIRST_STEPS_WELCOME"="ආයුබෝවන්";
+"FIRST_STEPS_WELCOME_DETAIL"="ඔබේ මාධ්‍ය වැයීමට සහ සමමුහුර්ත කිරීමට පළමු පියවර.";
+"FIRST_STEPS_ITUNES"="අයිටියුන්ස් ගොනු සම්මුහුර්තය";
+"FIRST_STEPS_ITUNES_DETAILS"="කේබලය භාවිතා කරමින් %@ ඔබේ මැක් හෝ PC වෙත සම්බන්ධ කරන්න.\nඅයිටියුන්ස් විවෘත කරන්න.\nඔබේ %@ තෝරාගන්න.\n\"යෙදුම්\" ටැබය වෙත මාරු වී, පහලට අනුචලනය කොට VLC සඳහා බලන්න.\nඔබේ ගොනු හුවමාරු කරන්න.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="ඔබේ මැක් හෝ පරිගණකය සේම ඔබේ %@ එකම ජාලයකට සම්බන්ධ කරන්න.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="පැතිබාරයේ පුරුක මාරු කොට, ගවේශකය වෙත URL ඇතුල් කොට ඔබේ ගොනු උඩුගත කරන්න.";
+"FIRST_STEPS_CLOUDS"="වළාකුළු";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="ඔබේ මාධ්‍ය ගූගල් ඩ්‍රයිව් හෝ ඩ්‍රෝප්බොක්ස් වෙත උඩුගත කරන්න.";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="ඔබේ වළා ප්‍රතිපාදක තෝරාගෙන මාධ්‍ය වෙත ප්‍රවේශ වී බාගැනීමට හෝ දහරාගත කිරීමට පැතිබාරය විවෘත කරන්න.";
+"FIRST_STEPS_PLAYBACK"="පිළිවැයීම";
+"FIRST_STEPS_FLOSS"="අයිඕඑස් සඳහා VLC යනු ස්වෙච්ඡාවෙන් ඉදිරිපත් වෙන්නන් විසින් සංවර්ධනය කරන ලද නිදහස් හා විවෘත මෘදුකාංගයකි.\nඔබ එයින් විනෝදයක් ලබනු ඇතැයි අපි සිතන්නෙමු.";
+
+"FIRST_STEPS_TIME"="කාලය";
+"FIRST_STEPS_ASPECT"="දර්ශන අනුපාතය";
+"FIRST_STEPS_SPEED"="වේගය";
+"FIRST_STEPS_REPEAT"="පුනරාවර්තනය";
+"FIRST_STEPS_SUBTITLES"="උපසිරැසි පථ";
+"FIRST_STEPS_AUDIO"="ශ්‍රව්‍ය පථ";
+"FIRST_STEPS_POSITION"="පිහිටීම";
+
+"PLEX_WATCHED"="Mark as watched";
+"PLEX_UNWATCHED"="Mark as un-watched";
+"PLEX_ERROR_MARK"="Error marking media";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="Sharing via WiFi";
+"WEBINTF_DROPFILES"="Drop Files";
+"WEBINTF_DROPFILES_LONG"="Drop files in the window to add them to your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_DOWNLOADFILES"="Download Files";
+"WEBINTF_DOWNLOADFILES_LONG"="Just click the file you want to download from your %@.";
+
+"CLOUD_DRIVES"="Other Cloud Drives";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

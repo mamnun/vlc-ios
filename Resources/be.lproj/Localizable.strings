@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="Выбраць аўдыёдарожку";
+"CHOOSE_SUBTITLE_TRACK"="Выбраць дарожку субтытраў";
+"OPEN_TRACK_PANEL"="Open track selection";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="Тэлевізар падлучаны";
+"PLAYING_EXTERNALLY_DESC"="Відэа грае на тэлевізары";
+
+"VFILTER_HUE"="Тон";
+"VFILTER_CONTRAST"="Кантрастнасць";
+"VFILTER_BRIGHTNESS"="Яркасць";
+"VFILTER_SATURATION"="Насычанасць";
+"VFILTER_GAMMA"="Гама-карэкцыя";
+
+"BUTTON_EQUALIZER"="Equalizer";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="Памылка прайгравання";
+"AR_CHANGED"="Стасунак бакоў: %@";
+"DEFAULT"="Стандарт";
+"FILL_TO_SCREEN"="Абрэзаць, каб запоўніць экран";
+"DEVICE_TOOSLOW_TITLE"="Слабаватая прылада";
+"DEVICE_TOOSLOW"="Ваш %@ выглядае слабаватым для прайгравання «%@». Усё адно адкрыць?";
+"PLAYBACK_SPEED"="Хуткасць прайгравання";
+"SPU_DELAY"="Затрымка субтытраў";
+"AUDIO_DELAY"="Затрымка аўдыё";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="Рэдагаваць";
+"BUTTON_DONE"="Гатова";
+"BUTTON_OPEN"="Адкрыць";
+"BUTTON_CANCEL"="Адмена";
+"BUTTON_SAVE"="Захаваць";
+"BUTTON_DOWNLOAD"="Сцягнуць";
+"BUTTON_DELETE"="Выдаліць";
+"BUTTON_OK"="OK";
+"BUTTON_NEXT"="Наступны";
+"BUTTON_CONTRIBUTE"="Зрабіць унёсак";
+"BUTTON_BACK"="Назад";
+"BUTTON_CONNECT"="Злучыцца";
+"BUTTON_REPEAT"="Паўтор";
+"BUTTON_RENAME"="Пераназваць";
+"BUTTON_LEARN_MORE"="Падрабязней";
+"BUTTON_LOGOUT"="Logout";
+"PRIVATE_PLAYBACK_TOGGLE"="Прыватнае прайграванне";
+"SCAN_SUBTITLE_TOGGLE"="Пашукаць субтытры (толькі HTTP)";
+
+"UPGRADING_LIBRARY"="Абнаўленне медыятэкі";
+"UNTITLED_SHOW"="Безназоўнае відовішча";
+"UNKNOWN"="Невядома";
+
+"OPEN_NETWORK"="Адкрыць сеткавы паток";
+"NETWORK_TITLE"="Сеткавы паток";
+"OPEN_NETWORK_HELP"="Увядзіце HTTP-, RTSP-, RTMP-, MMS-, FTP- або UDP/RTP-адрас, каб наўпрост адкрыць паток.";
+"ABOUT_APP"="Пра VLC для iOS";
+"OPEN_VLC_MENU"="Адкрыць бакавое меню VLC";
+"HTTP_UPLOAD_SERVER_OFF"="Неактыўны сервер";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="Няма актыўнага WiFi-злучэння";
+"OPEN_STREAM_OR_DOWNLOAD"="Жадаеце сцягнуць альбо прайграць гэты URL?";
+"SELECT_RESOURCE_TO_PLAY"="Абярыце рэсурс для прайгравання:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="Абярыце рэсурс для сцягвання:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="Сцягнуць файл не ўдалося праз памылку HTTP %i";
+"HTTP_FILE_CREATION_FAILED"="Не ўдалося стварыць файл";
+"HTTP_DOWNLOAD_CANCELLED"="Сцягванне скасавана карыстальнікам";
+
+"DOWNLOAD_FROM_HTTP_HELP"="Увядзіце адрас, каб сцягнуць файл на %@.";
+"DOWNLOAD_FROM_HTTP"="Сцягванні";
+"ERROR_NUMBER"="Здарылася памылка %i";
+"DOWNLOAD_FAILED"="Сцягнуць не ўдалося";
+"FILE_NOT_SUPPORTED"="Фармат файла не падтрымліваецца";
+"FILE_NOT_SUPPORTED_LONG"="Фармат файла «%@» не падтрымліваецца гэтай версіяй VLC для iOS.";
+"SCHEME_NOT_SUPPORTED"="Схема адраса не падтрымліваецца";
+"SCHEME_NOT_SUPPORTED_LONG"="Схема адраса (%@) не падтрымліваецца. Задайце HTTP-, HTTPS- альбо FTP-адрас.";
+"LIBRARY_ALL_FILES"="Усе файлы";
+"LIBRARY_MUSIC"="Музыкальныя альбомы";
+"LIBRARY_SERIES"="Відовішчы на ТБ";
+"LIBRARY_TRACKS"="%i трэкаў";
+"LIBRARY_SINGLE_TRACK"="%i трэк";
+"LIBRARY_EPISODES"="%i эпізодаў, %i непрачытана";
+"LIBRARY_SINGLE_EPISODE"="%i эпізод, %i непрачытана";
+"LIBRARY_TRACK_N"="Трэк %i";
+"LIBRARY_MINUTES_LEFT"="Яшчэ %@ хв";
+"RENAME_MEDIA_TO"="Задайце новую назву для %@";
+
+"FOLDER_EMPTY"="Пустая папка";
+"FOLDER_EMPTY_LONG"="Каб дадаць файлы, націсніце Рэдагаваць, абярыце файлы, шчоўкніце па кнопцы-папцы і абярыце гэтую папку.";
+"FOLDER_INVALID_TYPE_TITLE"="Непрыдатныя тыпы файлаў";
+"FOLDER_INVALID_TYPE_MESSAGE"="Можна ўзяць толькі два файлы, каб сфармаваць папку альбо дадаць адзін файл да існуючай папкі.";
+"FOLDER_CHOOSE_NAME_TITLE"="Новая папка";
+"FOLDER_CHOOSE_NAME_MESSAGE"="Задайце назву папкі";
+"FOLDER_NAME_PLACEHOLDER"="Назва папкі";
+"FOLDER_NAME_DUPLICATE_TITLE"="Назва існуе";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="Задайце іншую назву";
+"SELECT_FOLDER"="Выбраць папку";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="Адкрыць файл:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="Адкрыць праз...";
+"SHARING_ERROR_NO_FILES"="Не знайшлося файла для распаўсюду";
+"SHARING_ERROR_NO_APPLICATIONS"="Не знайшлося жаднай праграмы, каб адкрыць гэты тып файла";
+"SHARING_SUCCESS_CAMERA_ROLL"="Файл паспяхова захаваны ў здымках камеры";
+
+"SECTION_HEADER_LIBRARY"="Медыятэка";
+"SECTION_HEADER_NETWORK"="Сетка";
+
+"LOCAL_NETWORK"="Лакальная сетка";
+"CONNECT_TO_SERVER"="Злучыцца з серверам";
+"ENTER_SERVER_ADDRESS_HELP"="Увядзіце IP-адрас альбо назву сервера для падлучэння.";
+"ENTER_SERVER_CREDS_HELP"="Пры неабходнасці, увядзіце імя карыстальніка і пароль.";
+"USER_LABEL"="Карыстальнік";
+"PASSWORD_LABEL"="Пароль";
+
+"LOCAL_SERVER_REFRESH"="Абнавіць";
+"LOCAL_SERVER_LAST_UPDATE"="Апошняе абнаўленне: %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="НЕ ЎДАЛОСЯ ЗЛУЧЫЦЦА З СЕРВЕРАМ";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="Спраўдзіце адрас сервера а вашыя імя карыстальніка і пароль";
+
+"CLOUD_SERVICES"="Cloud Services";
+"LOGIN"="Login";
+"LOGGED_IN"="Logged in";
+
+"DROPBOX_DOWNLOAD"="Сцягнуць файл?";
+"DROPBOX_DL_LONG"="Жадаеце сцягнуць «%@» на %@?";
+"DROPBOX_LOGIN"="Карыстальнік";
+
+"GDRIVE_ERROR_FETCHING_FILES"="Памылка пры счытванні файлаў";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="Файл паспяхова сцягнуты.";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="ПОСПЕХ";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="Здарылася памылка пры сцягванні";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="ПАМЫЛКА";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i файлаў";
+"ONE_FILE"="1 файл";
+"NO_FILES"="Няма падтрымваных файлаў";
+"DOWNLOADING"="Сцягванне...";
+"REMAINING_TIME"= "Засталося часу: %@";
+"ENTER_PASSCODE"="Увядзіце пароль";
+"REENTER_PASSCODE"="Пароль яшчэ раз";
+"PASSCODE_SET"="Задаць пароль";
+"PASSCODE_CHANGE"="Змяніць пароль";
+"PASSCODE_ENTER_OLD"="Увядзіце стары пароль";
+"PASSCODE_ENTER_NEW"="Увядзіце новы пароль";
+"PASSCODE_REENTER_NEW"="Новы пароль яшчэ раз";
+"PASSCODES_DID_NOT_MATCH"="Паролі не супалі. Паспрабуйце яшчэ раз.";
+"PASSCODE_FAILED_1"="1 няўдалая спроба ўводу пароля";
+"PASSCODE_FAILED_FORMAT"="%d няўдалых спроб уводу пароля";
+
+"Settings"="Настаўленні"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="Пустая медыятэка";
+"EMPTY_LIBRARY_LONG"="Прайграваць медыя-аб’екты можна анлайн з сервера ў лакальнай сетцы, з воблака; можна таксама сінхранізаваць прыладу праз iTunes, WiFi-загрузку альбо воблачныя службы.";
+
+"PLAYBACK_SCRUB_HELP"="Правядзіце пальцам долу, каб адрэгуляваць хуткасць перамоткі.";
+"PLAYBACK_SCRUB_HIGH"="Найхуткая перамотка";
+"PLAYBACK_SCRUB_HALF"="Сярэдняй хуткасці перамотка";
+"PLAYBACK_SCRUB_QUARTER"="Павольная перамотка";
+"PLAYBACK_SCRUB_FINE"="Дакладная перамотка";
+"PLAYBACK_POSITION"="Пазіцыя прайгравання";
+"VIDEO_FILTER"="Відэафільтры";
+"VIDEO_FILTER_RESET_BUTTON"="Скінуць відэафільтры";
+"VIDEO_ASPECT_RATIO_BUTTON"="Пераключыць стасунак бакоў відэа";
+"PLAY_PAUSE_BUTTON"="Граць/на паўзу бягучы аб’ект";
+"BWD_BUTTON"="Скокнуць назад";
+"FWD_BUTTON"="Скокнуць наперад";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="Версія: %@";
+"BASED_ON_FORMAT"="Базуецца на:<br/>%@";
+
+"NEW"="НОВЫ";
+
+"BUG_REPORT_TITLE"="Паведаміць пра хібу";
+"BUG_REPORT_MESSAGE"="Жадаеце заявіць пра хібу?";
+"BUG_REPORT_BUTTON"="Адкрыць Safari";
+
+"VO_VIDEOPLAYER_TITLE"="Відэаплэер";
+"VO_VIDEOPLAYER_DOUBLETAP"="Падвойны шчаўчок, каб паказаць/схаваць кіраванне прайграваннем";
+
+"FIRST_STEPS_WELCOME"="Вітаем";
+"FIRST_STEPS_WELCOME_DETAIL"="Уводзіны ў сінхранізацыю і прайграванне медыя-аб’ектаў.";
+"FIRST_STEPS_ITUNES"="Сінхранізацыя файлаў з iTunes";
+"FIRST_STEPS_ITUNES_DETAILS"="Падлучыце дротам %@ да Макінтоша альбо PC.\nАдкрыйце iTunes.\nВыберыце свой %@.\nПераключыцеся на ўкладку «Apps», знайдзіце ў спісе VLC.\nПерадайце файлы.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Падлучыце %@ да той самай сеткі, што ваш Макінтош ці PC.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Перавядзіце перамыкач у бакавой панэлі, увядзіце URL у браўзеры і загрузіце файлы.";
+"FIRST_STEPS_CLOUDS"="Воблакі";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Загрузіць медыя-аб’екты на Google Drive або Dropbox.";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Адкрыйце бакавую панэль, каб выбраць воблачнага правайдара і даступіцца да сваіх медыя-аб’ектаў для сцягвання альбо анлайн-прайгравання.";
+"FIRST_STEPS_PLAYBACK"="Прайграванне";
+"FIRST_STEPS_FLOSS"="VLC для iOS — гэта бясплатны і свабодны софт, распрацаваны валанцёрамі.\nСпадзяемся, вас спадабаецца.";
+
+"FIRST_STEPS_TIME"="Час";
+"FIRST_STEPS_ASPECT"="Стасунак бакоў";
+"FIRST_STEPS_SPEED"="Хуткасць";
+"FIRST_STEPS_REPEAT"="Паўтор";
+"FIRST_STEPS_SUBTITLES"="Дарожкі субтытраў";
+"FIRST_STEPS_AUDIO"="Аўдыёдарожкі";
+"FIRST_STEPS_POSITION"="Пазіцыя";
+
+"PLEX_WATCHED"="Пазначыць як гледжанае";
+"PLEX_UNWATCHED"="Пазначыць як нягледжанае";
+"PLEX_ERROR_MARK"="Не ўдалося пазначыць медыя-аб’ект";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="Распаўсюд праз WiFi";
+"WEBINTF_DROPFILES"="Перацягніце файлы";
+"WEBINTF_DROPFILES_LONG"="Перацягніце файлы ў акно, каб дадаць іх на %@.<br>Альбо націсніце на кнопку «+», каб скарыстацца дыялогам выбару файла.";
+"WEBINTF_DOWNLOADFILES"="Сцягнуць файлы";
+"WEBINTF_DOWNLOADFILES_LONG"="Шчоўкніце па файле, каб сцягнуць яго з %@.";
+
+"CLOUD_DRIVES"="Other Cloud Drives";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

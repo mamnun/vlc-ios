@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="בחירת רצועת שמע";
+"CHOOSE_SUBTITLE_TRACK"="בחירת רצועת כתוביות";
+"OPEN_TRACK_PANEL"="Open track selection";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="מחוברת טלוויזיה";
+"PLAYING_EXTERNALLY_DESC"="קטע וידאו זה מתנגן בטלוויזיה";
+
+"VFILTER_HUE"="גוון";
+"VFILTER_CONTRAST"="ניגודיות";
+"VFILTER_BRIGHTNESS"="בהירות";
+"VFILTER_SATURATION"="רוויה";
+"VFILTER_GAMMA"="גאמה";
+
+"BUTTON_EQUALIZER"="Equalizer";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="הנגינה נכשלה";
+"AR_CHANGED"="יחס תצוגה: %@";
+"DEFAULT"="בררת מחדל";
+"FILL_TO_SCREEN"="לחתוך למילוי המסך";
+"DEVICE_TOOSLOW_TITLE"="ההתקן אטי מדי";
+"DEVICE_TOOSLOW"="ה־%@ שלך אטי מכדי להפעיל את „%@“. לפתוח בכל זאת?";
+"PLAYBACK_SPEED"="מהירות הנגינה";
+"SPU_DELAY"="עיכוב בכתוביות";
+"AUDIO_DELAY"="עיכוב בשמע";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="עריכה";
+"BUTTON_DONE"="בוצע";
+"BUTTON_OPEN"="פתיחה";
+"BUTTON_CANCEL"="ביטול";
+"BUTTON_SAVE"="שמירה";
+"BUTTON_DOWNLOAD"="הורדה";
+"BUTTON_DELETE"="מחק";
+"BUTTON_OK"="אישור";
+"BUTTON_NEXT"="הבא";
+"BUTTON_CONTRIBUTE"="התנדבות";
+"BUTTON_BACK"="חזרה";
+"BUTTON_CONNECT"="חיבור";
+"BUTTON_REPEAT"="חזרה";
+"BUTTON_RENAME"="שינוי שם";
+"BUTTON_LEARN_MORE"="מידע נוסף";
+"BUTTON_LOGOUT"="Logout";
+"PRIVATE_PLAYBACK_TOGGLE"="נגינה פרטית";
+"SCAN_SUBTITLE_TOGGLE"="חיפוש אחר כתוביות (http בלבד)";
+
+"UPGRADING_LIBRARY"="ספריית המדיה משתדרגת";
+"UNTITLED_SHOW"="מופע ללא שם";
+"UNKNOWN"="לא ידוע";
+
+"OPEN_NETWORK"="פתיחת תזרים רשת";
+"NETWORK_TITLE"="תזרים רשת";
+"OPEN_NETWORK_HELP"="נא להזין כתובת כלשהי מסוג HTTP, RTSP, RTMP, MMS, FTP או UDP/RTP כדי לפתוח את התזרים ישירות.";
+"ABOUT_APP"="על אודות VLC ל־iOS";
+"OPEN_VLC_MENU"="פתיחת תפריט הצד של VLC";
+"HTTP_UPLOAD_SERVER_OFF"="שרת בלתי פעיל";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="אין חיבור אלחוטי פעיל";
+"OPEN_STREAM_OR_DOWNLOAD"="האם להוריד או לנגן את הכתובת הזאת?";
+"SELECT_RESOURCE_TO_PLAY"="בחירת משאב לנגינה:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="בחירת משאב להורדה:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="ההורדה נכשלה עם קוד ה־HTTP %i";
+"HTTP_FILE_CREATION_FAILED"="יצירת הקובץ נכשלה";
+"HTTP_DOWNLOAD_CANCELLED"="ההורדה בוטלה על ידי המשתמש";
+
+"DOWNLOAD_FROM_HTTP_HELP"="נא להזין כתובת כדי להוריד את הקובץ אל ה־%@ שלך.";
+"DOWNLOAD_FROM_HTTP"="הורדות";
+"ERROR_NUMBER"="אירעה שגיאת %i";
+"DOWNLOAD_FAILED"="ההורדה נכשלה";
+"FILE_NOT_SUPPORTED"="מבנה הקובץ אינו נתמך";
+"FILE_NOT_SUPPORTED_LONG"="מבנה הקבצים בו נעשה שימוש על ידי %@ אינו נתמך בגרסה זו של VLC ל־iOS.";
+"SCHEME_NOT_SUPPORTED"="מבנה הכתובת אינו נתמך";
+"SCHEME_NOT_SUPPORTED_LONG"="מבנה הכתובת (%@) אינו נתמך. נא להשתמש בכתובת המתחילה ב־HTTP,‏ HTTPS או FTP.";
+"LIBRARY_ALL_FILES"="כל הקבצים";
+"LIBRARY_MUSIC"="אלבומי מוזיקה";
+"LIBRARY_SERIES"="תכניות טלוויזיה";
+"LIBRARY_TRACKS"="%i רצועות";
+"LIBRARY_SINGLE_TRACK"="רצועה %i";
+"LIBRARY_EPISODES"="%i פרקים, %i לא נקראו";
+"LIBRARY_SINGLE_EPISODE"="פרק %i,‏ %i לא נקראו";
+"LIBRARY_TRACK_N"="רצועה מס׳ %i";
+"LIBRARY_MINUTES_LEFT"="%@m נותרו";
+"RENAME_MEDIA_TO"="נא להזין שם חדש עבור %@";
+
+"FOLDER_EMPTY"="תיקייה ריקה";
+"FOLDER_EMPTY_LONG"="כדי להוסיף קבצים יש לגעת בעריכה, לבחור את הקבצים הרצויים, ללחוץ על לחצן התיקייה ולבחור את התיקייה.";
+"FOLDER_INVALID_TYPE_TITLE"="סוגי הקבצים שגויים";
+"FOLDER_INVALID_TYPE_MESSAGE"="ניתן לגבש תיקייה סביב שני קבצים בלבד או לצרף קובץ לתיקייה קיימת.";
+"FOLDER_CHOOSE_NAME_TITLE"="תיקייה חדשה";
+"FOLDER_CHOOSE_NAME_MESSAGE"="נא להזין כותרת לתיקייה שלך";
+"FOLDER_NAME_PLACEHOLDER"="כותרת התיקייה";
+"FOLDER_NAME_DUPLICATE_TITLE"="הכותרת כבר קיימת";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="נא לבחור בכותרת אחרת";
+"SELECT_FOLDER"="בחירת תיקייה";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="בחירת קובץ לפתיחה:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="פתיחה בתוך…";
+"SHARING_ERROR_NO_FILES"="לא ניתן למצוא קבצים לשיתוף";
+"SHARING_ERROR_NO_APPLICATIONS"="לא ניתן למצוא אף יישום לפתיחת סוג כזה של קובץ";
+"SHARING_SUCCESS_CAMERA_ROLL"="הקובץ נשמר בהצלחה למאגר התמונות";
+
+"SECTION_HEADER_LIBRARY"="ספריית המדיה";
+"SECTION_HEADER_NETWORK"="רשת";
+
+"LOCAL_NETWORK"="רשת מקומית";
+"CONNECT_TO_SERVER"="התחברות לשרת";
+"ENTER_SERVER_ADDRESS_HELP"="נא להזין את כתובת ה־IP או שם השרת אליו ברצונך להתחבר.";
+"ENTER_SERVER_CREDS_HELP"="אם עולה דרישה מצד השרת יהיה עליך לספק שם משתמש וססמה.";
+"USER_LABEL"="משתמש";
+"PASSWORD_LABEL"="סיסמה";
+
+"LOCAL_SERVER_REFRESH"="רענון";
+"LOCAL_SERVER_LAST_UPDATE"="עדכון אחרון ב־%@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="החיבור לשרת נכשל";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="נא לבדוק את כתובת השרת ואת פרטי הגישה שלך";
+
+"CLOUD_SERVICES"="Cloud Services";
+"LOGIN"="Login";
+"LOGGED_IN"="Logged in";
+
+"DROPBOX_DOWNLOAD"="האם להוריד קובץ?";
+"DROPBOX_DL_LONG"="האם להוריד את „%@“ אל ה־%@ שלך?";
+"DROPBOX_LOGIN"="כניסה";
+
+"GDRIVE_ERROR_FETCHING_FILES"="קבלת הקבצים נכשלה";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="הקובץ שלך הורדה בהצלחה";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="הצלחה";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="אירעה שגיאה בעת ההורדה";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="שגיאה";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i קבצים";
+"ONE_FILE"="קובץ אחד";
+"NO_FILES"="אין קבצים נתמכים";
+"DOWNLOADING"="בהורדה…";
+"REMAINING_TIME"= "הזמן שנותר: %@";
+"ENTER_PASSCODE"="להזין צופן";
+"REENTER_PASSCODE"="הזנת צופן מחדש";
+"PASSCODE_SET"="הגדרת צופן";
+"PASSCODE_CHANGE"="החלפת צופן";
+"PASSCODE_ENTER_OLD"="נא להזין את הצופן הישן שלך";
+"PASSCODE_ENTER_NEW"="נא להזין את הצופן החדש שלך";
+"PASSCODE_REENTER_NEW"="הזנת הצופן החדש שלך שוב";
+"PASSCODES_DID_NOT_MATCH"="הצפנים אינם תואמים. נא לנסות שוב.";
+"PASSCODE_FAILED_1"="ניסיון צופן אחד שנכשל";
+"PASSCODE_FAILED_FORMAT"="%d ניסיונות צופן שנכשלו";
+
+"Settings"="הגדרות"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="פינוי ספריית המדיה";
+"EMPTY_LIBRARY_LONG"="לצורך נגינה, ניתן להזרים מדיה משרת ברשת המקומית שלך, מהענן או לסנכרן מדיה מההתקן שלך באמצעות iTunes, להעלות ב־WiFi או משירותי ענן.";
+
+"PLAYBACK_SCRUB_HELP"="יש להחליק את האצבע כלפי מטה כדי להתאים את מהירות הגלילה.";
+"PLAYBACK_SCRUB_HIGH"="גלילה במהירות גבוהה";
+"PLAYBACK_SCRUB_HALF"="גלילה במהירות בינונית";
+"PLAYBACK_SCRUB_QUARTER"="גלילה ברבע מהמהירות";
+"PLAYBACK_SCRUB_FINE"="גלילה עדינה";
+"PLAYBACK_POSITION"="מיקום הנגינה";
+"VIDEO_FILTER"="מסנני וידאו";
+"VIDEO_FILTER_RESET_BUTTON"="איפוס מסנני וידאו";
+"VIDEO_ASPECT_RATIO_BUTTON"="החלפת יחס התצוגה של הווידאו";
+"PLAY_PAUSE_BUTTON"="הפעלה או השהיה של הנגינה הנוכחית";
+"BWD_BUTTON"="קפיצה אחורה";
+"FWD_BUTTON"="קפיצה קדימה";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="גרסה: %@";
+"BASED_ON_FORMAT"="מבוסס על:<br />%@";
+
+"NEW"="חדש";
+
+"BUG_REPORT_TITLE"="דיווח על תקלה";
+"BUG_REPORT_MESSAGE"="האם ליצור דיווח על תקלה?";
+"BUG_REPORT_BUTTON"="הפעלת ספארי";
+
+"VO_VIDEOPLAYER_TITLE"="נגן וידאו";
+"VO_VIDEOPLAYER_DOUBLETAP"="יש לגעת פעמיים כדי להציג או להסתיר את פקדי הנגינה";
+
+"FIRST_STEPS_WELCOME"="ברוך בואך";
+"FIRST_STEPS_WELCOME_DETAIL"="הצעדים הראשונים לסנכרון ונגינה של המדיה שלך.";
+"FIRST_STEPS_ITUNES"="סנכרון קבצים עם iTunes";
+"FIRST_STEPS_ITUNES_DETAILS"="יש לחבר את %@ ל־Mac או למחשב שלך באמצעות הכבל.\nלפתוח את iTunes.\nלבחור את ה־%@ שלך.\nלעבור ללשונית „Apps“, לגלול למטה ולחפש את VLC.\nלהעביר את הקבצים שלך.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="ניתן לחבר את ה־%@ שלך לאותה הרשת עם ה־Mac או המחשב שלך.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="ניתן להחליף את מצב הבורר בסרגל הצד, להזין את הכתובת לדפדפן האינטרנט ולהעלות את הקבצים שלך.";
+"FIRST_STEPS_CLOUDS"="עננים";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="ניתן להעלות את המדיה שלך ל־Google Drive או ל־Dropbox.";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="ניתן לפתוח את סרגל הצד כדי לבחור את ספק הענן שלך ולגשת למדיה שלך להורדה או להזרמה.";
+"FIRST_STEPS_PLAYBACK"="נגינה";
+"FIRST_STEPS_FLOSS"="VLC ל־iOS הנה תכנה חופשית בקוד פתוח המפותחת על ידי מתנדבים.\nכולנו תקווה שעבודתנו נושאת חן בעיניך.";
+
+"FIRST_STEPS_TIME"="זמן";
+"FIRST_STEPS_ASPECT"="יחס תצוגה";
+"FIRST_STEPS_SPEED"="מהירות";
+"FIRST_STEPS_REPEAT"="חזרה";
+"FIRST_STEPS_SUBTITLES"="רצועות כתוביות";
+"FIRST_STEPS_AUDIO"="רצועות שמע";
+"FIRST_STEPS_POSITION"="מיקום";
+
+"PLEX_WATCHED"="סימון כנצפה";
+"PLEX_UNWATCHED"="סימון כלא נצפה";
+"PLEX_ERROR_MARK"="סימון המדיה נכשל";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="שיתוף באמצעות WiFi";
+"WEBINTF_DROPFILES"="גרירת קבצים";
+"WEBINTF_DROPFILES_LONG"="ניתן להשליך קבצים לכאן כדי להוסיף אותם ל%@ שלך.<br>או ללחוץ על לחצן ה־„+“ כדי להשתמש בחלונית בחירת הקבצים.";
+"WEBINTF_DOWNLOADFILES"="הורדת קבצים";
+"WEBINTF_DOWNLOADFILES_LONG"="עליך פשוט ללחוץ על מה שברצונך להוריד מה%@ שלך.";
+
+"CLOUD_DRIVES"="כונני ענן אחרים";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="Izaberi Zvučni Zapis";
+"CHOOSE_SUBTITLE_TRACK"="Izaberi Podnapis";
+"OPEN_TRACK_PANEL"="Otvori listu zapisa";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="TV je povezan";
+"PLAYING_EXTERNALLY_DESC"="Ovaj video zapis se trenutno reprodukuje na TV-u";
+
+"VFILTER_HUE"="Ton boje";
+"VFILTER_CONTRAST"="Kontrast";
+"VFILTER_BRIGHTNESS"="Svetloća";
+"VFILTER_SATURATION"="Zasićenost boje";
+"VFILTER_GAMMA"="Opseg boje";
+
+"BUTTON_EQUALIZER"="Equalizer";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="Reprodukcija nije uspela";
+"AR_CHANGED"="Odnos širine i visine: %@";
+"DEFAULT"="Podrazumevane vrednosti";
+"FILL_TO_SCREEN"="Opseći za prikazivanje preko celog ekrana";
+"DEVICE_TOOSLOW_TITLE"="Uređaj je suviše spor";
+"DEVICE_TOOSLOW"="Vaš %@ je verovoatno suviše spor za reprodukciju \"%@\". Ipak otvori?";
+"PLAYBACK_SPEED"="Brzina reprodukcije";
+"SPU_DELAY"="Kašnjenje podnapisa";
+"AUDIO_DELAY"="Kašnjenje zvuka";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="Uredi";
+"BUTTON_DONE"="Obavljeno";
+"BUTTON_OPEN"="Otvori";
+"BUTTON_CANCEL"="Otkaži";
+"BUTTON_SAVE"="Sačuvaj";
+"BUTTON_DOWNLOAD"="Preuzmi";
+"BUTTON_DELETE"="Obriši";
+"BUTTON_OK"="OK";
+"BUTTON_NEXT"="Dalje";
+"BUTTON_CONTRIBUTE"="Doprinesi projektu";
+"BUTTON_BACK"="Nazad";
+"BUTTON_CONNECT"="Poveži se";
+"BUTTON_REPEAT"="Ponavljanje";
+"BUTTON_RENAME"="Preimenuj";
+"BUTTON_LEARN_MORE"="Saznaj Više";
+"BUTTON_LOGOUT"="Odjavi se";
+"PRIVATE_PLAYBACK_TOGGLE"="Lična Reprodukcija";
+"SCAN_SUBTITLE_TOGGLE"="Traži Podnapise (samo http)";
+
+"UPGRADING_LIBRARY"="Nadogradnja Medijske Biblioteke";
+"UNTITLED_SHOW"="Nenaslovljena Emisija";
+"UNKNOWN"="Nepoznato";
+
+"OPEN_NETWORK"="Pokreni Reprodukciju Tokom Preuzimanja sa Mreže";
+"NETWORK_TITLE"="Reprodukcija Tokom Preuzimanja sa Mreže";
+"OPEN_NETWORK_HELP"="Unesite bilo koju HTTP, RTSP, RTMP, MMS, FTP ili UDP/RTP adresu da bi ste direktno pokrenuli reprodukciju tokom preuzimanja.";
+"ABOUT_APP"="O programu VLC za iOS";
+"OPEN_VLC_MENU"="Otvori dodatni VLC meni";
+"HTTP_UPLOAD_SERVER_OFF"="Server Nije Aktivan";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="Nema aktivnih bežićnih mreža";
+"OPEN_STREAM_OR_DOWNLOAD"="Želite li nešto da preuzmete ili reprodkujete sa ove URL adrese?";
+"SELECT_RESOURCE_TO_PLAY"="Izaberite šta želite da reprodukujete:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="Izaberite šta želite da preuzmete:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="Neuspešno preuzimanje uz pomoć HTTP šifre %i";
+"HTTP_FILE_CREATION_FAILED"="Stvaranje datoteke nije uspelo";
+"HTTP_DOWNLOAD_CANCELLED"="Korisnik je prekinuo preuzimanje";
+
+"DOWNLOAD_FROM_HTTP_HELP"="Unesite adresu da bi ste preuzeli datoteku u vaš %@";
+"DOWNLOAD_FROM_HTTP"="Preuzimanja";
+"ERROR_NUMBER"="Greška %i";
+"DOWNLOAD_FAILED"="Preuzimanje nije uspelo";
+"FILE_NOT_SUPPORTED"="Format datoteke nije podržan";
+"FILE_NOT_SUPPORTED_LONG"="Ova verzija VLC-a za iOS ne podržava format datoteke koji koristi %@.";
+"SCHEME_NOT_SUPPORTED"="Šema adrese nije podržana";
+"SCHEME_NOT_SUPPORTED_LONG"="Šema adrese (%@) nije podržana. Molimo vas koristite adresu koja počinje sa HTTP, HTTPS ili FTP.";
+"LIBRARY_ALL_FILES"="Sve Datoteke";
+"LIBRARY_MUSIC"="Muzički Albumi";
+"LIBRARY_SERIES"="TV Emisije";
+"LIBRARY_TRACKS"="%i Zapisi";
+"LIBRARY_SINGLE_TRACK"="%i Zapis";
+"LIBRARY_EPISODES"="%i Epizoda, %i nepročitanih";
+"LIBRARY_SINGLE_EPISODE"="%i Epizoda, %i nepročitanih";
+"LIBRARY_TRACK_N"="Zapis %i";
+"LIBRARY_MINUTES_LEFT"="%@m ostalo";
+"RENAME_MEDIA_TO"="Unesi novo ime za %@";
+
+"FOLDER_EMPTY"="Isprazni Fasciklu";
+"FOLDER_EMPTY_LONG"="Za dodavanje datoteka pritisnite Uredi, izaberite datoteke koje želite, kliknite dugme za fasciklu i izaberite ovu fasciklu.";
+"FOLDER_INVALID_TYPE_TITLE"="Pogrešna vrsta datoteke";
+"FOLDER_INVALID_TYPE_MESSAGE"=" Fasciklu možete napraviti samo uz pomoć dve datoteke, a možete i dodati jednu datoteku u već postojeću fasciklu.";
+"FOLDER_CHOOSE_NAME_TITLE"="Nova Fascikla";
+"FOLDER_CHOOSE_NAME_MESSAGE"="Unesite naziv za fasciklu";
+"FOLDER_NAME_PLACEHOLDER"="Naziv Fascikle";
+"FOLDER_NAME_DUPLICATE_TITLE"="Naziv već postoji";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="Molimo vas da izaberete drugi naziv";
+"SELECT_FOLDER"="Izaberi Fasciklu";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="Izaberi datoteku koju ćeš otvoriti:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="Otvori iz...";
+"SHARING_ERROR_NO_FILES"="Datoteke za deljenje nisu pronađene";
+"SHARING_ERROR_NO_APPLICATIONS"="Nema nijedne aplikacije koja može otvoriti ovu vrstu datoteke";
+"SHARING_SUCCESS_CAMERA_ROLL"="Datoteka je uspešno sačuvana na Filmu";
+
+"SECTION_HEADER_LIBRARY"="Medijska Biblioteka";
+"SECTION_HEADER_NETWORK"="Mreža";
+
+"LOCAL_NETWORK"="Lokalna Mreža";
+"CONNECT_TO_SERVER"="Poveži se sa Serverom";
+"ENTER_SERVER_ADDRESS_HELP"="Unesi IP adresu ili naziv servera sa kojim želiš da se povežeš.";
+"ENTER_SERVER_CREDS_HELP"="Unesite korisničko ime i lozinku ako server zahteva.";
+"USER_LABEL"="Korisnik";
+"PASSWORD_LABEL"="Lozinka";
+
+"LOCAL_SERVER_REFRESH"="Osveži";
+"LOCAL_SERVER_LAST_UPDATE"="Poslednje Ažuriranje %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="USPOSTAVLANJE VEZE SA SERVEROM NIJE USPELO";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="Molimo vas da proverite adresu i ovlašćenja vašeg servera";
+
+"CLOUD_SERVICES"="Usluge Oblaka";
+"LOGIN"="Prijavi se";
+"LOGGED_IN"="Prijavljen";
+
+"DROPBOX_DOWNLOAD"="Preuzmi datoteku?";
+"DROPBOX_DL_LONG"="Želite li da preuzmete \"%@\" na vaš %@?";
+"DROPBOX_LOGIN"="Prijavi se";
+
+"GDRIVE_ERROR_FETCHING_FILES"="Greška pri dobavljenju datoteka";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="Uspešno ste preuzeli datoteku";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="USPEŠNO OBAVLJENO";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="Greška tokom preuzimanja";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="GREŠKA";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i datoteke";
+"ONE_FILE"="1 datoteka";
+"NO_FILES"="Nema podržanih datoteka";
+"DOWNLOADING"="Preuzimanje je u toku...";
+"REMAINING_TIME"= "Preostalo vreme: %@";
+"ENTER_PASSCODE"="Unesi brojčanu lozinku";
+"REENTER_PASSCODE"="Ponovo unesi brojčanu lozinku";
+"PASSCODE_SET"="Podesi brojčanu lozinku";
+"PASSCODE_CHANGE"="Promeni brojčanu lozinku";
+"PASSCODE_ENTER_OLD"="Unesi svoju staru brojčanu lozinku";
+"PASSCODE_ENTER_NEW"="Unesi svoju novu brojčanu lozinku";
+"PASSCODE_REENTER_NEW"="Ponovo unesi svoju novu brojčanu lozinku";
+"PASSCODES_DID_NOT_MATCH"="Brojčane lozinke se ne podudaraju. Pokušaj ponovo.";
+"PASSCODE_FAILED_1"="1 Neuspeli Pokušaj Ukucavanja Tačne Brojčane Lozinke";
+"PASSCODE_FAILED_FORMAT"="%d Neuspela/-ih Pokušaja Ukucavanja Tačne Brojčane Lozinke";
+
+"Settings"="Podešavanja"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="Isprazni Medijsku Biblioteku";
+"EMPTY_LIBRARY_LONG"="Da bi ste reprodukovali medijske datoteke, možete ih repruodukovati za vreme skidanja sa servera na vašoj lokalnoj mreži ili oblaka, ili ih sinhronizujte sa vašim uređajem koristeći iTunes, WiFi Otpremanje ili usluge Oblaka.";
+
+"PLAYBACK_SCRUB_HELP"="Pređite prstom nadole da bi ste podesili brzinu premotavanja.";
+"PLAYBACK_SCRUB_HIGH"="Ubrzano premotavanje";
+"PLAYBACK_SCRUB_HALF"=" Premotavanje sa 1/2 brzine ";
+"PLAYBACK_SCRUB_QUARTER"="Premotavanje sa 1/4 brzine";
+"PLAYBACK_SCRUB_FINE"="Fino premotavanje";
+"PLAYBACK_POSITION"="Pozicija Reprodukcije";
+"VIDEO_FILTER"="Video Filteri";
+"VIDEO_FILTER_RESET_BUTTON"="Uspostavi Početnu Vrednost Video Filtera";
+"VIDEO_ASPECT_RATIO_BUTTON"="Promeni odnos visine i širine kod video zapisa";
+"PLAY_PAUSE_BUTTON"="Reprodukuj ili Prekini trenutno reprodukovanje";
+"BWD_BUTTON"="Skoči Unazad";
+"FWD_BUTTON"="Skoči Napred";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="Verzija: %@";
+"BASED_ON_FORMAT"="Baziran na:<br />%@";
+
+"NEW"="NOVO";
+
+"BUG_REPORT_TITLE"="Prijavite grešku";
+"BUG_REPORT_MESSAGE"="Želite li da napravite izveštaj o programskoj grešci?";
+"BUG_REPORT_BUTTON"="Pokreni Safari";
+
+"VO_VIDEOPLAYER_TITLE"="Video Plejer";
+"VO_VIDEOPLAYER_DOUBLETAP"="Stisnite dva puta da bi ste prikazali ili sakrili kontrole za reprodukciju";
+
+"FIRST_STEPS_WELCOME"="Dobro došli";
+"FIRST_STEPS_WELCOME_DETAIL"="Prvi koraci ka Sinhronizaciji i Reprodukciji Vaših Medija.";
+"FIRST_STEPS_ITUNES"="Sinhronizacija Datoteka sa iTunes";
+"FIRST_STEPS_ITUNES_DETAILS"="Povežite vaš %@ sa vašim Mac-om ili drugim računarom uz pomoć kabla.\nPokrenite iTunes.\nOdaberite vaš %@.\nPrebacite se na karticu \"Aplikacije\", premotajte nadole i potražite VLC.\nPrebacite vaše datoteke.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Povežite vaš %@ na istu mrežu na kojoj su povezani vaš Mac ili PC";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Prebacite preklopnik na bočnu traku, ukucajte URL adresu u veb pegledač i otpremite vaše datoteke.";
+"FIRST_STEPS_CLOUDS"="Oblaci";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Otpremite vaše medijske datoteke na Google Drive ili Dropbox";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Da bi ste pristupili vašim medijskim datotekama i mogli da ih preuzmete ili reprodkujete tokom preuzimanja, otvorite bočnu traku i izaberite vašeg dobavljača Oblaka.";
+"FIRST_STEPS_PLAYBACK"="Reprodukuj";
+"FIRST_STEPS_FLOSS"="VLC za iOS je besplatan program koji su dobrovoljci razvili u slobodnom kodu.";
+
+"FIRST_STEPS_TIME"="Vreme";
+"FIRST_STEPS_ASPECT"="Odnos širine i visine";
+"FIRST_STEPS_SPEED"="Brzina";
+"FIRST_STEPS_REPEAT"="Ponavljanje";
+"FIRST_STEPS_SUBTITLES"="Podnapisi";
+"FIRST_STEPS_AUDIO"="Zvučni zapisi";
+"FIRST_STEPS_POSITION"="Pozicija";
+
+"PLEX_WATCHED"="Obeleži kao odgledano";
+"PLEX_UNWATCHED"="Obeleži kao negledano";
+"PLEX_ERROR_MARK"="Greška u obeležavanju medijskih datoteka";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="Deljenje preko bežične mreže";
+"WEBINTF_DROPFILES"="Spusti Datoteke";
+"WEBINTF_DROPFILES_LONG"="Spustite datoteteke u prozor da bi ste ih dodali u vaš %@.<br>Ili pritisnite \"+\" da bi ste koristili dijalog  birača datoteka.";
+"WEBINTF_DOWNLOADFILES"="Preuzmi datoteke";
+"WEBINTF_DOWNLOADFILES_LONG"="Jednostavno stisnite datoteku koji želite da preuzmete sa vašeg %@";
+
+"CLOUD_DRIVES"="Drugi Diskovi u Oblaku";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

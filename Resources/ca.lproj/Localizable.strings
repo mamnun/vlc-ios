@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="Trieu la pista d'àudio";
+"CHOOSE_SUBTITLE_TRACK"="Trieu la pista de subtítol";
+"OPEN_TRACK_PANEL"="Open track selection";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="TV connectada";
+"PLAYING_EXTERNALLY_DESC"="Aquest vídeo s'està reproduint a la TV";
+
+"VFILTER_HUE"="To de color";
+"VFILTER_CONTRAST"="Contrast";
+"VFILTER_BRIGHTNESS"="Brillantor";
+"VFILTER_SATURATION"="Saturació";
+"VFILTER_GAMMA"="Gamma";
+
+"BUTTON_EQUALIZER"="Equalizer";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="S'ha produït un error en la reproducció";
+"AR_CHANGED"="Relació d'aspecte: %@";
+"DEFAULT"="Per defecte";
+"FILL_TO_SCREEN"="Escapça per ajustar a la pantalla";
+"DEVICE_TOOSLOW_TITLE"="El dispositiu és massa lent";
+"DEVICE_TOOSLOW"="El vostre %@ és molt lent per reproduir «%@». Voleu obrir-lo igualment?";
+"PLAYBACK_SPEED"="Velocitat de reproducció";
+"SPU_DELAY"="Subtitles delay";
+"AUDIO_DELAY"="Audio delay";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="Edita";
+"BUTTON_DONE"="Fet";
+"BUTTON_OPEN"="Obre";
+"BUTTON_CANCEL"="Cancel·la";
+"BUTTON_SAVE"="Desa";
+"BUTTON_DOWNLOAD"="Baixades";
+"BUTTON_DELETE"="Elimina";
+"BUTTON_OK"="D'acord";
+"BUTTON_NEXT"="Següent";
+"BUTTON_CONTRIBUTE"="Col·laboreu";
+"BUTTON_BACK"="Endarrere";
+"BUTTON_CONNECT"="Connecta";
+"BUTTON_REPEAT"="Repeteix";
+"BUTTON_RENAME"="Canvia el nom";
+"BUTTON_LEARN_MORE"="Per saber més";
+"BUTTON_LOGOUT"="Logout";
+"PRIVATE_PLAYBACK_TOGGLE"="Reproducció privada";
+"SCAN_SUBTITLE_TOGGLE"="Scan for Subtitles (http-only)";
+
+"UPGRADING_LIBRARY"="Actualitza la biblioteca de medis";
+"UNTITLED_SHOW"="Mostra sense títol";
+"UNKNOWN"="Unknown";
+
+"OPEN_NETWORK"="Obre un flux de xarxa";
+"NETWORK_TITLE"="Flux de xarxa";
+"OPEN_NETWORK_HELP"="Introduïu una adreça http, rtsp, rtmp, mms, ftp o udp/rtp per obrir directament el flux.";
+"ABOUT_APP"="Quant al VLC per a l'iOS";
+"OPEN_VLC_MENU"="Obre el menú lateral de VLC";
+"HTTP_UPLOAD_SERVER_OFF"="Servidor inactiu";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="Cap connexió WiFi activa";
+"OPEN_STREAM_OR_DOWNLOAD"="Voleu baixar or reproduir aquesta URL?";
+"SELECT_RESOURCE_TO_PLAY"="Select a resource to play:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="Select a resource to download:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="Ha fallat la baixada amb el codi HTTP %i";
+"HTTP_FILE_CREATION_FAILED"="Ha fallat la creació del fitxer";
+"HTTP_DOWNLOAD_CANCELLED"="Baixada cancel·lada per l'usuari";
+
+"DOWNLOAD_FROM_HTTP_HELP"="Entreu una adreça per a baixar el fitxer en la carpeta %@";
+"DOWNLOAD_FROM_HTTP"="Baixades";
+"ERROR_NUMBER"="S'ha produït un error %i";
+"DOWNLOAD_FAILED"="S'ha produït un error en la baixada";
+"FILE_NOT_SUPPORTED"="Format de fitxer no suportat";
+"FILE_NOT_SUPPORTED_LONG"="El format de fitxer utilitzat per %@ no es compatible amb aquest versió de VLC per a l'iOS.";
+"SCHEME_NOT_SUPPORTED"="El protocol de l'esquema no és vàlid";
+"SCHEME_NOT_SUPPORTED_LONG"="El protocol de l'esquema (%@) no és vàlid. Utilitzeu una adreça basada en una capçalera HTTP, HTTPS o FTP.";
+"LIBRARY_ALL_FILES"="Tots els fitxers";
+"LIBRARY_MUSIC"="Àlbums de música";
+"LIBRARY_SERIES"="Sèries de televisió";
+"LIBRARY_TRACKS"="%i pistes";
+"LIBRARY_SINGLE_TRACK"="%i pista";
+"LIBRARY_EPISODES"="%i episodis, %i no llegit";
+"LIBRARY_SINGLE_EPISODE"="%i episodi, %i no llegit";
+"LIBRARY_TRACK_N"="Pista %i";
+"LIBRARY_MINUTES_LEFT"="%@m esquerra";
+"RENAME_MEDIA_TO"="Entreu un nou nom per a %@";
+
+"FOLDER_EMPTY"="Buida la carpeta";
+"FOLDER_EMPTY_LONG"="Per afegir fitxers feu un toc a Edita, trieu els fitxers que vulgueu, feu clic al botó de la carpeta i seleccioneu la carpeta.";
+"FOLDER_INVALID_TYPE_TITLE"="Tipus de fitxers no vàlids";
+"FOLDER_INVALID_TYPE_MESSAGE"="Per formar una carpeta calen dos fitxer o es pot afegir un fitxer a una carpeta que ja existeix.";
+"FOLDER_CHOOSE_NAME_TITLE"="Nova carpeta";
+"FOLDER_CHOOSE_NAME_MESSAGE"="Introduïu un títol per a la carpeta";
+"FOLDER_NAME_PLACEHOLDER"="Títol de la carpeta";
+"FOLDER_NAME_DUPLICATE_TITLE"="Títol que ja existeix";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="Tria un altre títol";
+"SELECT_FOLDER"="Selecciona una carpeta";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="Choose a file to open:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="Open In...";
+"SHARING_ERROR_NO_FILES"="Could not find any files to share";
+"SHARING_ERROR_NO_APPLICATIONS"="Could not find any applications to open this type of file";
+"SHARING_SUCCESS_CAMERA_ROLL"="File was successfully saved to the Camera Roll";
+
+"SECTION_HEADER_LIBRARY"="Biblioteca multimèdia";
+"SECTION_HEADER_NETWORK"="Xarxa";
+
+"LOCAL_NETWORK"="Xarxa local";
+"CONNECT_TO_SERVER"="Connecta amb el servidor";
+"ENTER_SERVER_ADDRESS_HELP"="Introduïu l'adreça IP o el nom del servidor on voleu connectar-vos.";
+"ENTER_SERVER_CREDS_HELP"="Si ho requereix el servidor, introduïu el nom d'usuari i la contrasenya.";
+"USER_LABEL"="Usuari";
+"PASSWORD_LABEL"="Contrasenya";
+
+"LOCAL_SERVER_REFRESH"="Actualitza";
+"LOCAL_SERVER_LAST_UPDATE"="Darrera actualització de %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="Ha fallat la connexió al servidor";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="Comprova la teua adreça i contrasenya del servidor";
+
+"CLOUD_SERVICES"="Cloud Services";
+"LOGIN"="Login";
+"LOGGED_IN"="Logged in";
+
+"DROPBOX_DOWNLOAD"="Voleu baixar el fitxer?";
+"DROPBOX_DL_LONG"="Voleu baixar «%@» al vostre %@?";
+"DROPBOX_LOGIN"="Entrada";
+
+"GDRIVE_ERROR_FETCHING_FILES"="Error de recuperació de fitxers";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="El fitxer s'ha baixat correctament";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="ÈXIT";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="S'ha produït una errada mentre es baixava";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="ERROR";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i fitxers";
+"ONE_FILE"="1 fitxer";
+"NO_FILES"="Cap fitxer compatible";
+"DOWNLOADING"="S'està baixant...";
+"REMAINING_TIME"= "Temps restant: %@";
+"ENTER_PASSCODE"="Introduïu el codi";
+"REENTER_PASSCODE"="Confirmeu el codi";
+"PASSCODE_SET"="Introduïu el codi de pas";
+"PASSCODE_CHANGE"="Canvi el codi";
+"PASSCODE_ENTER_OLD"="Introduïu el codi antic";
+"PASSCODE_ENTER_NEW"="Introduïu el codi nou";
+"PASSCODE_REENTER_NEW"="Confirmeu el codi nou";
+"PASSCODES_DID_NOT_MATCH"="Els codis no coincideixen. Torneu a intentar-ho";
+"PASSCODE_FAILED_1"="1 intent fallit de codi d'accés";
+"PASSCODE_FAILED_FORMAT"="%d intents fallits de codi d'accés";
+
+"Settings"="Paràmetres"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="Biblioteca multimèdia buida";
+"EMPTY_LIBRARY_LONG"="Per a la reproducció, podeu utilitzar contingut des d'un servidor de la xarxa local, al núvol, o sincronitzar el contingut multimèdia mitjançant l'iTunes, una connexió sense fils, o serveis al núvol.";
+
+"PLAYBACK_SCRUB_HELP"="Feu lliscar el dit avall per ajustar la taxa de depuració.";
+"PLAYBACK_SCRUB_HIGH"="Depuració molt ràpida";
+"PLAYBACK_SCRUB_HALF"="Depuració a velocitat 1/2";
+"PLAYBACK_SCRUB_QUARTER"="Depuració a velocitat 1/4";
+"PLAYBACK_SCRUB_FINE"="Depuració fina";
+"PLAYBACK_POSITION"="Posició de reproducció";
+"VIDEO_FILTER"="Filtres de vídeo";
+"VIDEO_FILTER_RESET_BUTTON"="Reinicia els filtres de vídeo";
+"VIDEO_ASPECT_RATIO_BUTTON"="Intercanvia la relació d'aspecte del vídeo";
+"PLAY_PAUSE_BUTTON"="Reprodueix o pausa la reproducció actual";
+"BWD_BUTTON"="Salta cap enrere";
+"FWD_BUTTON"="Salta cap endavant";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="Versió: %@";
+"BASED_ON_FORMAT"="Basat en:<br />%@";
+
+"NEW"="NOU";
+
+"BUG_REPORT_TITLE"="Informeu d'un error";
+"BUG_REPORT_MESSAGE"="Voleu crear un informe d'error?";
+"BUG_REPORT_BUTTON"="Obre el Safari";
+
+"VO_VIDEOPLAYER_TITLE"="Reproductor de vídeo";
+"VO_VIDEOPLAYER_DOUBLETAP"="Feu dos tocs per mostrar o amagar els controls de reproducció";
+
+"FIRST_STEPS_WELCOME"="Benvingut";
+"FIRST_STEPS_WELCOME_DETAIL"="Primers passos per sincronitzar i reproduir els fitxers multimèdia";
+"FIRST_STEPS_ITUNES"="Sincronització de fitxers a l'iTunes";
+"FIRST_STEPS_ITUNES_DETAILS"="Connecteu l'%@ al Mac o l'ordinador mitjançant un cable.\nObriu l'iTunes.\nSeleccioneu l'%@.\nAneu a la pestanya \"Apps\", desplaceu-vos avall i cerqueu el VLC.\nTransferiu-hi els fitxers.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Connecteu el %@ a la xarxa del seu Mac o PC.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Canvieu el commutador a la barra lateral, introduïu la URL al navegador web i pengeu els fitxers.";
+"FIRST_STEPS_CLOUDS"="Núvols";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Penja els suports a Google Drive o Dropbox.";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Obriu la barra lateral per seleccionar el vostre proveïdor de Núvol i accediu els vostres mitjans de comunicació per baixar o veure el flux de dades.";
+"FIRST_STEPS_PLAYBACK"="Reproducció";
+"FIRST_STEPS_FLOSS"="VLC per iOS és lliure i programari de codi obert desenvolupat per voluntaris.\n\nEsperem que t'agradi.";
+
+"FIRST_STEPS_TIME"="Temps";
+"FIRST_STEPS_ASPECT"="Proporció d'aspecte";
+"FIRST_STEPS_SPEED"="Velocitat";
+"FIRST_STEPS_REPEAT"="Repeteix";
+"FIRST_STEPS_SUBTITLES"="Pistes de subtítols";
+"FIRST_STEPS_AUDIO"="Pistes d'àudio";
+"FIRST_STEPS_POSITION"="Posició";
+
+"PLEX_WATCHED"="Marca com a vist";
+"PLEX_UNWATCHED"="Marca com a no vist";
+"PLEX_ERROR_MARK"="Error marcant el fitxer multimèdia";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="Sharing via WiFi";
+"WEBINTF_DROPFILES"="Drop Files";
+"WEBINTF_DROPFILES_LONG"="Drop files in the window to add them to your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_DOWNLOADFILES"="Download Files";
+"WEBINTF_DOWNLOADFILES_LONG"="Just click the file you want to download from your %@.";
+
+"CLOUD_DRIVES"="Other Cloud Drives";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

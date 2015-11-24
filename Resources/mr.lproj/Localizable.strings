@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="ध्वनी ट्रॅक निवडा";
+"CHOOSE_SUBTITLE_TRACK"="उपशीर्षक ट्रॅक निवडा";
+"OPEN_TRACK_PANEL"="ट्रॅक निवड उघडा";
+"CHOOSE_TITLE"="शीर्षक निवडा";
+"CHOOSE_CHAPTER"="पाठ निवडा";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="टीव्ही जोडला";
+"PLAYING_EXTERNALLY_DESC"="ही चित्रफीत टीव्हीवर प्ले केली जात आहे";
+
+"VFILTER_HUE"="ह्यू";
+"VFILTER_CONTRAST"="कॉन्ट्रास्ट";
+"VFILTER_BRIGHTNESS"="तेजस्वीपणा";
+"VFILTER_SATURATION"="सॅचुरेशन";
+"VFILTER_GAMMA"="गॅमा";
+
+"BUTTON_EQUALIZER"="ईक्वीलायझर";
+"PREAMP"="प्रीअँप";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="ईक्वीलायझर प्रोफाईल निवडा";
+
+"PLAYBACK_FAILED"="प्लेबॅक अयशस्वी";
+"AR_CHANGED"="आस्पेक्ट गुणोत्तर: %@";
+"DEFAULT"="डिफॉल्ट";
+"FILL_TO_SCREEN"="स्क्रीन भरण्यासाठी क्रॉप करा";
+"DEVICE_TOOSLOW_TITLE"="उपकरण फार मंद आहे";
+"DEVICE_TOOSLOW"="आपले %@ \"%@\" प्ले करण्यासाठी फार मंद असण्याची शक्यता आहे. तरीही उघडावे?";
+"PLAYBACK_SPEED"="प्लेबॅक गती";
+"SPU_DELAY"="उपशीर्षक विलंब";
+"AUDIO_DELAY"="ध्वनी विलंब";
+"BUTTON_SLEEP_TIMER"="स्लीप टाइमर";
+
+"BUTTON_EDIT"="संपादन";
+"BUTTON_DONE"="पूर्ण";
+"BUTTON_OPEN"="उघडा";
+"BUTTON_CANCEL"="रद्द करा";
+"BUTTON_SAVE"="जतन करा";
+"BUTTON_DOWNLOAD"="डाऊनलोड";
+"BUTTON_DELETE"="खोडून टाका";
+"BUTTON_OK"="ठीक";
+"BUTTON_NEXT"="पुढील";
+"BUTTON_CONTRIBUTE"="योगदान द्या";
+"BUTTON_BACK"="मागे";
+"BUTTON_CONNECT"="जोडणी करा";
+"BUTTON_REPEAT"="वारंवारीत करा";
+"BUTTON_RENAME"="नाव बदला";
+"BUTTON_LEARN_MORE"="अधिक शिका";
+"BUTTON_LOGOUT"="लॉग आउट";
+"PRIVATE_PLAYBACK_TOGGLE"="खाजगी प्लेबॅक";
+"SCAN_SUBTITLE_TOGGLE"="उपशीर्षके शोधा (फक्त http)";
+
+"UPGRADING_LIBRARY"="मीडिया लायब्ररी अपग्रेड करत आहे";
+"UNTITLED_SHOW"="अनामिक कार्यक्रम";
+"UNKNOWN"="अज्ञात";
+
+"OPEN_NETWORK"="नेटवर्क स्ट्रीम उघडा";
+"NETWORK_TITLE"="नेटवर्क स्ट्रीम";
+"OPEN_NETWORK_HELP"="थेट स्ट्रीम उघडण्यासाठी कोणताही  HTTP, RTSP, RTMP, MMS, FTP किंवा UDP/RTP पत्ता प्रविष्ट करा.";
+"ABOUT_APP"="iOS साठी VLC विषयी";
+"OPEN_VLC_MENU"="VLC चा साईडबार मेन्यू उघडा";
+"HTTP_UPLOAD_SERVER_OFF"="निष्क्रिय सर्व्हर";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="एकही कार्यक्षम वायफाय जोडणी नाही";
+"OPEN_STREAM_OR_DOWNLOAD"="ही URL आपणास प्ले करण्यास अथवा डाऊनलोड करण्यास आवडेल का?";
+"SELECT_RESOURCE_TO_PLAY"="प्ले करण्यासाठी स्त्रोत निवडा:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="डाऊनलोड करण्यासाठी स्त्रोत निवडा:";
+"SHARED_VLC_IOS_LIBRARY"="iOS साठी VLC ची सामायिक लायब्ररी";
+"SAP_STREAMS"="नेटवर्क स्ट्रीम (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="%i HTTP कोडनिशी डाऊनलोड अयशस्वी";
+"HTTP_FILE_CREATION_FAILED"="फाईल तयार करणे अयशस्वी";
+"HTTP_DOWNLOAD_CANCELLED"="वापरकर्त्याद्वारा डाऊनलोड रद्द";
+
+"DOWNLOAD_FROM_HTTP_HELP"="आपल्या %@ वर फाईल डाऊनलोड करण्यासाठी पत्ता प्रविष्ट करा.";
+"DOWNLOAD_FROM_HTTP"="डाऊनलोड्स";
+"ERROR_NUMBER"="त्रुटी %i आढळली";
+"DOWNLOAD_FAILED"="डाऊनलोड अयशस्वी";
+"FILE_NOT_SUPPORTED"="फाइल स्वरूप समर्थित नाही";
+"FILE_NOT_SUPPORTED_LONG"="%@ वापरत असलेले फाईल स्वरूप iOS साठीच्या VLC या आवृत्तीशी समर्थित नाही.";
+"SCHEME_NOT_SUPPORTED"="पत्ता योजना समर्थित नाही";
+"SCHEME_NOT_SUPPORTED_LONG"="पत्ता योजना (%@) समर्थित नाही. कृपया HTTP, HTTPS किंवा FTP पासून सुरू होणारा पत्ता वापरा.";
+"LIBRARY_ALL_FILES"="सर्व फाईल्स";
+"LIBRARY_MUSIC"="संगीत अल्बम";
+"LIBRARY_SERIES"="टीव्ही कार्यक्रम";
+"LIBRARY_TRACKS"="%i ट्रॅक्स्";
+"LIBRARY_SINGLE_TRACK"="%i ट्रॅक";
+"LIBRARY_EPISODES"="%i भाग, %i न वाचलेले";
+"LIBRARY_SINGLE_EPISODE"="%i भाग, %i न वाचलेले";
+"LIBRARY_TRACK_N"="ट्रॅक %i";
+"LIBRARY_MINUTES_LEFT"="%@m बाकी";
+"RENAME_MEDIA_TO"="%@ साठी नवीन नाव प्रविष्ट करा";
+
+"FOLDER_EMPTY"="रिक्त फोल्डर";
+"FOLDER_EMPTY_LONG"="To add files tap Edit, choose the files you want, click the folder-button and select this folder.";
+"FOLDER_INVALID_TYPE_TITLE"="अवैध फाईल प्रकार";
+"FOLDER_INVALID_TYPE_MESSAGE"="You can only take two files to form a folder or add a single file to an existing folder.";
+"FOLDER_CHOOSE_NAME_TITLE"="नवीन फोल्डर";
+"FOLDER_CHOOSE_NAME_MESSAGE"="आपल्या फोल्डरसाठी शीर्षक प्रविष्ट करा";
+"FOLDER_NAME_PLACEHOLDER"="फोल्डर शीर्षक";
+"FOLDER_NAME_DUPLICATE_TITLE"="शीर्षक अस्तित्वात आहे";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="कृपया वेगळे शीर्षक निवडा";
+"SELECT_FOLDER"="फोल्डर निवडा";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="उघडण्यासाठी फाईल निवडा:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="यामध्ये उघडा...";
+"SHARING_ERROR_NO_FILES"="Could not find any files to share";
+"SHARING_ERROR_NO_APPLICATIONS"="Could not find any applications to open this type of file";
+"SHARING_SUCCESS_CAMERA_ROLL"="फाईल कॅमेरा रोल मध्ये साठवली गेली";
+
+"SECTION_HEADER_LIBRARY"="मीडिया लायब्ररी";
+"SECTION_HEADER_NETWORK"="नेटवर्क";
+
+"LOCAL_NETWORK"="स्थानिक नेटवर्क";
+"CONNECT_TO_SERVER"="सर्वरशी जोडणी करा";
+"ENTER_SERVER_ADDRESS_HELP"="आपण जोडणी करू इच्छित असलेल्या सर्व्हरचा IP किंवा नाव प्रविष्ट करा.";
+"ENTER_SERVER_CREDS_HELP"="सर्व्हरसाठी आवश्यक असेल तर, वापरकर्ता नाव आणि पासवर्ड प्रविष्ट करा.";
+"USER_LABEL"="वापरकर्ता";
+"PASSWORD_LABEL"="पासवर्ड";
+
+"LOCAL_SERVER_REFRESH"="ताजे करा";
+"LOCAL_SERVER_LAST_UPDATE"="शेवटचे अद्ययावत %@ ला केलेले";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="सर्व्हरशी जोडणी अयशस्वी";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="आपला सर्व्हर पत्ता आणि क्रेडेंशियल्स तपासा";
+
+"CLOUD_SERVICES"="क्लाऊड सेवा";
+"LOGIN"="लॉग इन";
+"LOGGED_IN"="लॉग इन";
+
+"DROPBOX_DOWNLOAD"="फाईल डाऊनलोड करावी?";
+"DROPBOX_DL_LONG"="आपण आपल्या %@ वर \"%@\" डाऊनलोड करू इच्छिता?";
+"DROPBOX_LOGIN"="लॉगीन";
+
+"GDRIVE_ERROR_FETCHING_FILES"="फायली प्राप्त करताना त्रुटी";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="आपली फाईल यशस्वीपणे डाऊनलोड केली";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="यश";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="डाऊनलोड करताना एक त्रुटी आली";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="त्रुटी";
+
+"DISK_FULL"="साठवन मर्यादा संपली";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i फाईल्स";
+"ONE_FILE"="1 फाईल";
+"NO_FILES"="एकही समर्थित फाईल नाही";
+"DOWNLOADING"="डाऊनलोड होत आहे...";
+"REMAINING_TIME"= "बाकी वेळ: %@";
+"ENTER_PASSCODE"="पासकोड प्रविष्ट करा";
+"REENTER_PASSCODE"="पासकोड पुन्हा प्रविष्ट करा";
+"PASSCODE_SET"="पासकोड सेट करा";
+"PASSCODE_CHANGE"="पासकोड बदला";
+"PASSCODE_ENTER_OLD"="आपला जुना पासकोड प्रविष्ट करा";
+"PASSCODE_ENTER_NEW"="आपला नवीन पासकोड प्रविष्ट करा";
+"PASSCODE_REENTER_NEW"="आपला नवीन पासकोड पुन्हा प्रविष्ट करा";
+"PASSCODES_DID_NOT_MATCH"="पासकोड जुळत नाहीत. पुन्हा प्रयत्न करा.";
+"PASSCODE_FAILED_1"="1 अयशस्वी पासकोड प्रयत्न";
+"PASSCODE_FAILED_FORMAT"="%d अयशस्वी पासकोड प्रयत्न";
+
+"Settings"="सेटिंग"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="रिक्त मीडिया लायब्ररी";
+"EMPTY_LIBRARY_LONG"="प्लेबॅकसाठी, क्लाउड पासुन अापण आपल्या स्थानिक नेटवर्कवरील सर्व्हर पासून मीडिया प्रवाह करु शकता, किंवा iTunes, वाइफाइ अपलोड किंवा क्लाउड सेवा वापरुन आपल्या डिव्हाइसवर मीडिया सिंक्रोनाइझ करु शकता.";
+
+"PLAYBACK_SCRUB_HELP"="स्क्रबिंग दर समायोजित करण्यासाठी आपले बोट खाली घसरवा.";
+"PLAYBACK_SCRUB_HIGH"="उच्च-गती स्क्रबिंग";
+"PLAYBACK_SCRUB_HALF"="अर्ध-गती स्क्रबिंग";
+"PLAYBACK_SCRUB_QUARTER"="पाव-गती स्क्रबिंग";
+"PLAYBACK_SCRUB_FINE"="फाईन स्क्रबिंग";
+"PLAYBACK_POSITION"="प्लेबॅक स्थळ";
+"VIDEO_FILTER"="चित्रफीत फिल्टर्स";
+"VIDEO_FILTER_RESET_BUTTON"="चित्रफीत फिल्टर्स पूर्ववत करा";
+"VIDEO_ASPECT_RATIO_BUTTON"="चित्रफीत आस्पेक्ट गुणोत्तर स्वीच करा";
+"PLAY_PAUSE_BUTTON"="चालू प्लेबॅक प्ले किंवा विरामित करा";
+"BWD_BUTTON"="मागे उडी घ्या";
+"FWD_BUTTON"="पुढे उडी घ्या";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="आवृत्ती: %@";
+"BASED_ON_FORMAT"="<br />%@ वर आधारित";
+
+"NEW"="नवीन";
+
+"BUG_REPORT_TITLE"="त्रुटीची नोंदणी करा";
+"BUG_REPORT_MESSAGE"="आपण दोष अहवाल तयार करू इच्छिता?";
+"BUG_REPORT_BUTTON"="Safari उघडा";
+
+"VO_VIDEOPLAYER_TITLE"="चित्रफीत प्लेअर";
+"VO_VIDEOPLAYER_DOUBLETAP"="प्लेबॅक नियंत्रणे दाखवण्यासाठी किंवा लपवण्यासाठी डबल टॅप करा";
+
+"FIRST_STEPS_WELCOME"="सुस्वागतम्";
+"FIRST_STEPS_WELCOME_DETAIL"="First steps to Sync and Play Your Media.";
+"FIRST_STEPS_ITUNES"="iTunes फाईल सिंक";
+"FIRST_STEPS_ITUNES_DETAILS"="Connect your %@ to your Mac or PC using the cable.\nOpen iTunes.\nSelect your %@.\nSwitch to the \"Apps\" tab, scroll down and look for VLC.\nTransfer your files.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Connect your %@ to the same network as your Mac or PC.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Switch the toggle in the sidebar, enter the URL to the web browser and upload your files.";
+"FIRST_STEPS_CLOUDS"="Clouds";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Upload your media to Google Drive or Dropbox.";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Open the sidebar to select your Cloud provider and access your media for downloading or streaming.";
+"FIRST_STEPS_PLAYBACK"="प्लेबॅक";
+"FIRST_STEPS_FLOSS"="VLC for iOS is free and open source software developed by volunteers.\nWe hope you'll love it.";
+
+"FIRST_STEPS_TIME"="वेळ";
+"FIRST_STEPS_ASPECT"="आस्पेक्ट गुणोत्तर";
+"FIRST_STEPS_SPEED"="गती";
+"FIRST_STEPS_REPEAT"="वारंवारीत करा";
+"FIRST_STEPS_SUBTITLES"="उपशीर्षक ट्रॅक";
+"FIRST_STEPS_AUDIO"="ध्वनी ट्रॅक";
+"FIRST_STEPS_POSITION"="ठिकाण";
+
+"PLEX_WATCHED"="Mark as watched";
+"PLEX_UNWATCHED"="Mark as un-watched";
+"PLEX_ERROR_MARK"="Error marking media";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="सर्व्हर";
+"SERVER_PORT"="पोर्ट";
+"BOOKMARK"="बुकमार्क";
+"INVALID_IP_PORT"="कृपया वैध आयपी पत्ता आणि पोर्ट प्रविष्ट करा";
+
+"WEBINTF_TITLE"="Sharing via WiFi";
+"WEBINTF_DROPFILES"="Drop Files";
+"WEBINTF_DROPFILES_LONG"="Drop files in the window to add them to your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_DOWNLOADFILES"="Download Files";
+"WEBINTF_DOWNLOADFILES_LONG"="Just click the file you want to download from your %@.";
+
+"CLOUD_DRIVES"="Other Cloud Drives";
+
+"NOW_PLAYING"="आता प्ले होत आहे";
+"PLAY_NOW"="आता प्ले करा";
+"PLAYING"="प्ले होत आहे";
+"PAUSED"="विरामित";
+"DETAIL"="तपशील";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";
